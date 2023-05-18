@@ -966,5 +966,16 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Sandhya - Kat-Katha.html</prop>
+      <prop type="prev"></prop>
+      <prop type="next">width=device-width, initial-scale=1, maximum-scale=1</prop>
+      <tuv lang="en-GB">
+        <seg>en-GB</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230518T163654Z" creationid="mange" creationdate="20230518T163654Z">
+        <seg>en-GB </seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
