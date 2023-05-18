@@ -1,9 +1,970 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.3_0_d8ab25dd" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>A few more visits inside the brothels and I learnt, even two wholesome meals were out of their reach despite having literally sold everything off themselves.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144800Z" creationid="alexi" creationdate="20230505T144800Z">
+        <seg>Después de unas cuantas visitas a distintos burdeles, me enteré de que incluso dos comidas sanas estaban fuera de su alcance a pesar de ser ellas las que lo vendían todo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>A few years ago, Gitanjali Babbar walked right in.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Hace unos años, Gitanjali Babbar entró directamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ab tum NGO wale kya kar loge!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>¡Ab tum NGO wale kya kar loge!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Abhay soon became the spine of the project and took charge of all administrative issues.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Abhay pronto se convirtió en la columna vertebral del proyecto y se encargó de todas las cuestiones administrativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>About sixteen of us circled up for an hour of meditation, followed by Gitanjali's spirited stories, open-hearted Q&amp;A, and emergent conversations over dinner.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Alrededor de dieciséis personas nos reunimos en círculo durante una hora de meditación, seguida de las enérgicas historias de Gitanjali, las preguntas y respuestas abiertas y las conversaciones que surgieron durante la cena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And I could also see wooden compartments.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144529Z" creationid="alexi" creationdate="20230505T144529Z">
+        <seg>También pude ver compartimentos de madera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And other rooms, if any different, were dormitories, loaded with women.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T092116Z" creationid="alexi" creationdate="20230510T092005Z">
+        <seg>Las otras habitaciones sí que parecían dormitorios, pero estaban repletos de mujeres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And she began bringing in different books and going over the material with this woman.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Y empezó a traer libros y a repasar el material con la mujer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And she started questioning her own motivations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Y empezó a cuestionarse sus propias motivaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And, I haven’t ever been to hell, but as a spectator, I can agree.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Y, no he estado nunca en el infierno, pero como espectadora, puedo estar de acuerdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And, a few stairs up a low-lit, steep case of steps; no two people could even walk side-by-side through those, and we were already inside a ‘brothel.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T143247Z" creationid="alexi" creationdate="20230505T143247Z">
+        <seg>
+Y, después de unos cuantos escalones más altos y poco iluminados por los que dos personas no podían pasar al mismo tiempo, ya estabamos dentro del burdel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And, all that was left was to convince the ladies to trust us and try learning new skills.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Y, todo lo que quedaba era convencer a las señoras para que confiaran en nosotros y probaran a aprender nuevas habilidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And, they will not only be accepted outside the G.B.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Y no sólo serán aceptadas fuera de G.B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And, we met Radha who was willing to come down to the G. B. Road and teach.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Y conocimos a Radha, que estaba dispuesta a venir a G. B. Road a enseñar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As I tried to make note of things, I was asked to follow him upstairs, while the other two shielded me from behind.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T143201Z" creationid="alexi" creationdate="20230505T143201Z">
+        <seg>Mientras trataba de anotar algunas cosas, me pidió que lo siguiera para subir al piso de arriba, mientras que otros dos me protegían las espaldas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As an experiment we decided to train in newer skills, as alternative livelihood options for them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Como experimento, decidimos formarles en nuevas habilidades, como opciones alternativas de subsistencia para ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As understanding dawned on me, I was astonished to see the exhibition of young girls sitting in mini-skirts, with painted yet expressionless faces, waiting to be picked by men in exchange for cheap cash.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144119Z" creationid="alexi" creationdate="20230505T144119Z">
+        <seg>A medida que lo iba asimilando, me asombraba ver la exposición de chicas jóvenes sentadas en minifalda, con caras pintadas pero inexpresivas, esperando a ser escogidas por  hombres a cambio de dinero barato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As you walk through the lanes, you expect to see brothels lined, as if on display.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T143113Z" creationid="alexi" creationdate="20230505T143113Z">
+        <seg>A medida que pasas por los carriles, esperas ver los burdeles alineados, totalmente expuestos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But I am certain, we will witness the day when all of 2900 women will be skilled, literate and have a livelihood other than sex work.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Pero estoy segura de que llegaremos al día en que las 2.900 mujeres estén cualificadas, sepan leer y escribir y tengan un medio de vida distinto del trabajo sexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But she couldn't say no.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Pero no podía negarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But the maalkins made sure I only limit the discussions to those around official concerns – protection and sexual health.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Pero las maalkins se aseguraron de que sólo limitara las conversaciones a las que giran en torno a las preocupaciones oficiales: protección y salud sexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Despite all of it, we managed to have two ladies join us.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>A pesar de todo, conseguimos que dos señoras se unieran a nosotros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Do you have a boyfriend?” one of them asked.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>¿Tienes novio?", preguntó una de ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>For her, these conversations felt forced and mechanical.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Para ella, estas conversaciones eran forzadas y mecánicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>From my visits with NACO, I learnt that there are nearly 30-40 girls in a brothel, and they don’t sleep before 4 in the morning, working all night to attend to clients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T092745Z" creationid="alexi" creationdate="20230510T092745Z">
+        <seg>Con mi visita a NACO aprendí que en un burdel hay entre 30 y 40 mujeres  y que pueden dormir hasta las 4 a.m. porque tienen que atender a sus clientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gitanjali was silent.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Gitanjali se quedó en silencio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Home to 77 brothels, 4,000 women, and 1,500 children, it is the largest red light area of Delhi, India.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Hogar de 77 burdeles, 4.000 mujeres y 1.500 niños, es la mayor zona roja de Delhi (India).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>How am I supposed to ask them such personal and private questions?”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>¿Cómo voy a hacerles preguntas tan personales y privadas?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>How else would one define hell?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>¿De qué otra forma se podría definir el infierno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>However, a roof as shelter does not mean care or even a decent night’s sleep.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T093032Z" creationid="alexi" creationdate="20230510T091022Z">
+        <seg>Sin embargo, tener un techo donde dormir no significa que ese sea un lugar seguro ni decente para pasar la noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>However, instead of being tense, I was curious to find out what rests on the other side of the veiled walls.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T143025Z" creationid="alexi" creationdate="20230505T143025Z">
+        <seg>Sin embargo, en vez de estar nerviosa, sentía curiosidad por saber qué había al otro lado de las paredes veladas.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>However, on my first visit I was presented with surprises, one after another: I walked past hardware shops, eyeing to spot the brothels, only to be suddenly pulled aside by my co-worker.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T143135Z" creationid="alexi" creationdate="20230505T143135Z">
+        <seg>Sin embargo, me llevé sopresas en mi primera visita, además, una detrás de otra. Pasé por ferreterías, esperando ver los burdeles, colo para que mi compañero me apartara de repente. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>However, they were reluctant and even said they were made for sex work alone.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Sin embargo, se mostraron reacias e incluso dijeron que estaban hechas sólo para el trabajo sexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I clearly remember, when I got back to the big room, the old ladies smirked and shrugged, and said “dekh liya hum kaese jeete hain?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Recuerdo claramente que, cuando volví a la habitación grande, las ancianas sonrieron con satisfacción y se encogieron de hombros, y dijeron "dekh liya hum kaese jeete hain?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I could only think about their plight, and spent sleepless nights.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Sólo podía pensar en su difícil situación y pasaba noches en vela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I could see change was necessary and I promised I would bring back dignity and respect for these women.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Me di cuenta de que era necesario un cambio y prometí que devolvería la dignidad y el respeto a estas mujeres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I couldn’t imagine enough space for one to sit inside that space, let alone 2 people having sex.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144645Z" creationid="alexi" creationdate="20230505T144626Z">
+        <seg>No podía imaginar que ese fuera espacio suficiente para que uno se sentara dentro, y mucho menos para 2 personas teniendo sexo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I didn't want to go during the afternoon time, when I was expected to go and ask certain questions [for my job].”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>No quería ir por la tarde, cuando se esperaba que fuera a hacer ciertas preguntas [por mi trabajo]".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I distinctly remember how in one brothel they decided to surround us and put us down, claiming we too shall leave in no time once our ‘motives’ are met.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Recuerdo perfectamente cómo en un burdel decidieron rodearnos y menospreciarnos, alegando que nosotras también nos marcharíamos enseguida una vez satisfechos nuestros "motivos".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I recall I was soon asked to leave.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T092207Z" creationid="alexi" creationdate="20230510T092207Z">
+        <seg>Recuerdo que no tardaron mucho en pedirme que me fuera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I started enjoying that time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Empecé a disfrutar de ese tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I started sharing my intention with others, went searching for suitable people, and found a friend Ankush who later became the regional head of Yuva Parivartan, an NGO facilitating skill development in young dropouts.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Empecé a compartir mi intención con otras personas, busqué a gente adecuada y encontré a un amigo, Ankush, que más tarde se convirtió en el director regional de Yuva Parivartan, una ONG que facilita el desarrollo de habilidades en jóvenes que han abandonado los estudios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I wanted to talk more, hear them out.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T093005Z" creationid="alexi" creationdate="20230510T093005Z">
+        <seg>Quería hablar más, quería escuchar todo lo que tenían por decir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I was sent out by NACO; it was assumed to be a challenging project.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T143003Z" creationid="alexi" creationdate="20230505T143003Z">
+        <seg>
+Fui enviada por NACO; se había asumido que era un proyecto complejo.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I was sure, I will keep coming back.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T092447Z" creationid="alexi" creationdate="20230510T092447Z">
+        <seg>No obstante, sabía que volvería.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It was not only through the day but also at night, they lived a compromised life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T092110Z" creationid="alexi" creationdate="20230510T092057Z">
+        <seg>No solo duirante el día, sino también por la noche, estaban sometidas al comprimiso que su trabajoo les suponía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I’ve often heard women say “humari zindagi toh narakh se bhi bhattar hai” (our life is worse than hell).</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>A menudo he oído decir a las mujeres "humari zindagi toh narakh se bhi bhattar hai" (nuestra vida es peor que el infierno).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Last Saturday, we had the gift of hosting a circle of sharing with Gitanjali and learning more about her experiences and insights from stepping straight to the heart of a neighborhood that most steer clear.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>El sábado pasado tuvimos el privilegio de organizar un círculo de intercambio con Gitanjali y conocer más de cerca sus experiencias y puntos de vista al adentrarse directamente en el corazón de un barrio del que la mayoría se aleja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>My colleague told me, these were cabinets where they ‘entertained’ the clients.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144545Z" creationid="alexi" creationdate="20230505T144545Z">
+        <seg>
+Mi compañero me dijo que eran armarios donde "entretenían" a los clientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>My colleagues in the field took me to a brothel after much reluctance, and the walk towards the brothel itself was an unnerving one too.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T143053Z" creationid="alexi" creationdate="20230505T143053Z">
+        <seg>Mis compañeros me llevaron a un burdel aunque a mí no me gustara la idea. El paseo hasta allí fue bastante desconcertante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>My interactions with 'them': The Untold Story by Gitanjali Babbar</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T142820Z" creationid="alexi" creationdate="20230505T142820Z">
+        <seg>
+Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Babbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>My team also grew in number and I was joined by another volunteer from the Yuva Parivahan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Mi equipo también creció en número y se me unió otro voluntario del Yuva Parivahan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>On recalling my first day inside a brothel, or even on the GB Road itself, I am hit by the now alien feeling of trepidation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T142935Z" creationid="alexi" creationdate="20230505T142935Z">
+        <seg>Cuando recuerdo mi primer día en el burdel, o incluso en la misma calle GB en el barrio rojo de Delhi, me golpea una sensación, ahora extraña, de inquietud.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>One assumes bhaturas as delish treats, but inside a brothel they are mere cheap alternatives for staying full for long, that one could only get hold of once the madams or malkins were done eating.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144820Z" creationid="alexi" creationdate="20230505T144820Z">
+        <seg>Uno asume que las chole bhatureson manjares deliciosos, pero dentro de un burdel son meras alternativas baratas para mantenerse lleno durante mucho tiempo. Además, solo podían comer cuando las madams ya habían terminado de hacerlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>One day, a group of brothel owners prepared for her afternoon visit.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Un día, un grupo de propietarios de burdeles se preparó para su visita vespertina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>One day, one of the women, who was about forty-five years old, pulled her aside.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Un día, una de las mujeres, de unos cuarenta y cinco años, la llamó aparte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Only two of them could read.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Sólo dos de ellas sabían leer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Or so you'd think.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>O al menos eso se cree.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Our interactions with the ladies brought out their concerns, and we realized they needed to learn how to read and write.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Nuestras interacciones con las señoras sacaron a relucir sus preocupaciones, y nos dimos cuenta de que necesitaban aprender a leer y escribir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Our presence and experiments have been growing since, and we continue to run out stitching classes, bridge school and other training programmes for the Didis and their children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Nuestra presencia y nuestros experimentos no han dejado de crecer desde entonces, y seguimos impartiendo clases de costura, escuela de bridge y otros programas de formación para las Didis y sus hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Outsiders are not permitted to spend time with them in their rooms; I had collected enough for my first visit.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T094437Z" creationid="alexi" creationdate="20230510T092353Z">
+        <seg>A los extranjeros no se les permitía estar con ellas en sus habitaciones. Ya había sido suficiente para mi primera visita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Road brothels into classrooms, community centers, and safe spaces for the women and their children to learn, explore creative arts, and come alive with a sense of connection, expression, and possibility.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Road en aulas, centros comunitarios y espacios seguros para que las mujeres y sus hijos aprendan, exploren las artes creativas y cobren vida con un sentido de conexión, expresión y posibilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Road is a place where no woman would go voluntarily.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Road, en Delhi, es un lugar al que ninguna mujer iría voluntariamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Road, but also receive support and respect.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Road, sino que también recibirán apoyo y respeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Road.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Road.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She did not only enjoy the first day, but became a friend for the ladies, and took them out to McDonald’s in Connaught Place.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>No sólo disfrutó el primer día, sino que se hizo amiga de las chicas y las llevó a McDonald's en Connaught Place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She didn't know how to respond.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>No sabía cómo responder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She had never been studious.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Nunca había sido estudiosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She quite literally knocked on the brothel doors, walked up the narrow staircases, and talked to the people there-- sipped tea with the brothel owners, listened, laughed, and came to know the women as her sisters, their children as her family.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Literalmente, llamó a las puertas de los burdeles, subió las estrechas escaleras y habló con la gente: tomó té con los dueños, escuchó, rió y llegó a conocer a las mujeres como a sus hermanas y a sus hijos como a su familia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She told herself, “Now it's time to break that wall and be with them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Se dijo a sí misma: "Ahora es el momento de romper ese muro y estar con ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She used to wonder, “I don't even know these women.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Se preguntaba: "Ni siquiera conozco a estas mujeres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She was a corporate employee then.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Por aquel entonces era empleada de una empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sirf baatein karte ho.” (now that you’ve seen our conditions, what do you think will you be able to change?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Sirf baatein karte ho". (ahora que han visto nuestras condiciones, ¿qué creen que podrán cambiar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Some highlights from the sharing are captured below.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>A continuación se recogen algunos de los momentos más destacados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Something in her heart shifted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Algo cambió en su corazón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Such was their routine.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T092928Z" creationid="alexi" creationdate="20230510T092928Z">
+        <seg>Esa era su rutina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The room was small, but full with women – all placed as objects of lust.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T143302Z" creationid="alexi" creationdate="20230505T143302Z">
+        <seg>La habitación era pequeña, pero estaba llena de mujeres todas dispuestas como objetos lujuriosos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The small rooms were attached to this one room.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144501Z" creationid="alexi" creationdate="20230505T144501Z">
+        <seg>Las habitaciones más pequeñas estaban unidas a ésta.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The tension between her daytime role as a health professional and evening persona as a caring friend and sister grew stronger.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>La tensión entre su papel diurno como profesional sanitaria y su personalidad nocturna como amiga y hermana cariñosa se hizo más fuerte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The whole one hour.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Toda la hora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The women got used to her presence, and came to look forward to their conversations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Las mujeres se acostumbraron a su presencia y empezaron a esperar con impaciencia sus conversaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Then a few more started meeting us over the weekends, where we gathered to watch films, conduct discussions or to do art and craft etc.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Luego, algunas más empezaron a reunirse con nosotras los fines de semana, donde nos reuníamos para ver películas, mantener debates o hacer arte y manualidades, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Thereon, everytime I had to visit the G.B Road center, I would make sure that I went inside brothels, took a closer look; and I found out that they were deprived of all rights and freedom.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Por eso, cada vez que tenía que visitar el centro de G.B Road, me aseguraba de entrar en los burdeles, echar un vistazo más de cerca; y descubrí que estaban privadas de todo derecho y libertad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>These small capsules for a room only had enough space for them to lie down, surrounded by their belongings, with no ventilation, let alone air to breathe.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T091841Z" creationid="alexi" creationdate="20230510T091841Z">
+        <seg>En este espacio apenas podían tumbarse rodeadas por todas sus pertenecias. Tampoco tenían ventilación, tan solo un poco de aire para poder respirar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>These were also called encounter rooms.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144609Z" creationid="alexi" creationdate="20230505T144609Z">
+        <seg>También se llamaban "salas de encuentro".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They brought in luck; within 10days sewing machines arrived and a trainer joined, and soon two more women joined.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Tuvieron suerte; en 10 días llegaron las máquinas de coser y se incorporó una formadora, y pronto se unieron dos mujeres más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They don't even know me.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Ellas ni siquiera me conocen a mí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They felt cheated and were not willing to trust again.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Se sentían engañadas y no estaban dispuestas a volver a confiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They live in dark rooms and filthy conditions, deprived of essentials and surrounded by dangerous people.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Viven en habitaciones oscuras y en condiciones mugrientas, privados de lo esencial y rodeados de gente peligrosa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They looked like mannequins, but were actual people on sale.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144137Z" creationid="alexi" creationdate="20230505T144137Z">
+        <seg>Parecían maniquíes, pero eran personas reales en venta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They were housed in dingy rooms – boxes carved by dividing a single room into multiple smaller ones.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T091637Z" creationid="alexi" creationdate="20230510T091637Z">
+        <seg>Se quedaban en habitaciones sucias que se dividían en habitaciones más pequeñas separadas por cajas .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They were slaves.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Eran esclavas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They will get the chance to hold their heads high, and the culprits will be held culprits for their follies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Tendrán la oportunidad de mantener la cabeza alta, y los culpables serán considerados culpables de sus locuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>This was our opportunity to prove it to other women how we were here to stay and genuinely help out.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Era nuestra oportunidad de demostrar a las demás mujeres que estábamos aquí para quedarnos y ayudar de verdad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Though her mother had always wanted her to be a teacher, Gitanjali never had that aspiration herself.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Aunque su madre siempre había querido que fuera maestra, Gitanjali nunca tuvo esa aspiración.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Three and half years ago, she found herself launching Kat-Katha, a nonprofit that's quietly been transforming G.B.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Hace tres años y medio, puso en marcha Kat-Katha, una organización sin ánimo de lucro que ha transformado silenciosamente los burdeles de G.B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We have days when motivation runs dry, with funds, and volunteer support missing and other obstacles.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Tenemos días en los que la motivación se agota, faltan fondos, apoyo de voluntarios y otros obstáculos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We hoped to learn about their interests and have them meet us at the nursing centre.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Esperábamos conocer sus intereses y que se reunieran con nosotros en el centro de enfermería.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We started visiting brothels with a different agenda this time.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Esta vez empezamos a visitar burdeles con una agenda diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We thus reached out through Facebook, and began looking for volunteers to teach.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Así que nos pusimos en contacto con ellas a través de Facebook y empezamos a buscar voluntarios para enseñarles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We went out looking for a safe space, and met Mr. Raess who agreed to give out a floor of his nursing home.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Salimos en busca de un espacio seguro y conocimos al Sr. Raess, que accedió a ceder una planta de su residencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We were made to sit in the big room, where everyone spent the day, gathered for meals and conversations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144431Z" creationid="alexi" creationdate="20230505T144431Z">
+        <seg>Nos hicieron sentarnos en una habitación grande, donde la gente pasaba el día y se reunía para comer y conversar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We’ve only seen NGO representatives talk) I was holding a responsible position, however, I could hardly change things; I felt powerless.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Sólo hemos visto hablar a los representantes de las ONG) Yo ocupaba un puesto de responsabilidad, pero apenas podía cambiar las cosas; me sentía impotente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>What maybe a routine for us, was a first for the ladies, and understandably so, they were overjoyed!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Lo que para nosotros podía ser una rutina, para las señoras era una primicia y, como es lógico, estaban encantadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>What was her agenda?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>¿Cuál era su agenda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>What was she trying to achieve?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>¿Qué quería conseguir?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>What we call a brothel is also a house for these ladies.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T091102Z" creationid="alexi" creationdate="20230510T091102Z">
+        <seg>Lo que para nosotros es un burdel, para esas mujeres es su casa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>When Gitanjali entered, about fifteen women were seated there, ready to reciprocate the very questions she asked of them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Cuando Gitanjali entró, había unas quince mujeres sentadas, dispuestas a responder a las mismas preguntas que ella les hacía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>When they wake up at 11, one can see queues outside washrooms, since there are only 2-3 in a brothel.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230510T092916Z" creationid="alexi" creationdate="20230510T092916Z">
+        <seg>Cuando se despiertan a las 11 a.m., se pueden ver colas en los baños, ya que solo hay 2 o 3 en el burdel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>While we waited, at around 2pm, an old man walked in with chhola bhaturas for the ladies’ breakfast.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230505T144744Z" creationid="alexi" creationdate="20230505T144744Z">
+        <seg>Mientras esperábamos, sobre las dos de la tarde, entró un anciano con chole bhature para que las chicas desayunaran.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Why was she coming to these brothels?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>¿Por qué venía a estos burdeles?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yet the experience of being in the brothels stuck: “The moment I entered, it was a different world all together for me.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Sin embargo, la experiencia de estar en los burdeles se le quedó grabada: "En cuanto entré, para mí era otro mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>[My job] wanted me to ask questions to the women, but I was quiet.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>[Mi trabajo] quería que hiciera preguntas a las mujeres, pero yo estaba callada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>en-GB</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230518T163247Z" creationid="alexi" creationdate="20230518T163247Z">
+        <seg>en-G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“I mean, there used to be beautiful chats between the women, talking about everything...</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>"Solía haber charlas preciosas entre las mujeres, hablando de todo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Ok, let's do something,” she replied.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>"De acuerdo, hagamos algo", respondió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“So why don't you tell us about your personal life.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>"¿Por qué no nos hablas de tu vida personal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Then I started going to every brothel,” she laughs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>"Entonces empecé a ir a todos los burdeles", se ríe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“When you cannot share your personal stories with us, why do you expect us to share our personal stories with you?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>"Si no puedes compartir tus historias personales con nosotros, ¿por qué esperas que compartamos nuestras historias personales contigo?</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
