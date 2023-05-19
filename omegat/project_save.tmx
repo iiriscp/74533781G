@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="en-GB">
         <seg>And then Gitanjali lightheartedly inquired, “Do you want us to come paint your police station?”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Y entonces Gitanjali preguntó alegremente: "¿Quieres que vayamos a pintar tu comisaría?".</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135531Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Y entonces Gitanjali preguntó alegremente: "¿Quiere que vayamos a pintar su comisaría?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -577,8 +577,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>Can you just say some motivating words for our volunteers?”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>¿Puedes decir algunas palabras motivadoras para nuestros voluntarios?"</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135549Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>¿Puede decir algunas palabras motivadoras para nuestros voluntarios?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1577,8 +1577,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>On August 15, the day of the event, all the policemen were inside.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>El 15 de agosto, día del evento, todos los policías estaban dentro.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135647Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>El 15 de agosto, el día del evento, todos los policías estaban dentro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3112,8 +3112,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>Whatever you say.”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135358Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Lo que usted digas."</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135536Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Lo que usted diga."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3529,8 +3529,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>“It's such a beautiful painting, you really think you want to put up advertisements over this particular painting?” Gitanjali asked.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135258Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>"Es un mural muy bonito, ¿de verdad crees que quieres poner publicidad sobre este mural en concreto?". preguntó Gitanjali.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135450Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Es un mural muy bonito, ¿de verdad que quiere poner publicidad sobre este mural en concreto?". preguntó Gitanjali.</seg>
       </tuv>
     </tu>
     <tu>
