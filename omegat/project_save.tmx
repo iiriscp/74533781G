@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58,6 +58,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230510T092116Z" creationid="alexi" creationdate="20230510T092005Z">
         <seg>Las otras habitaciones sí que parecían dormitorios, pero estaban repletos de mujeres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And people are just coming and meeting and sharing stories and sharing love with each other.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T130509Z" creationid="marsanchez" creationdate="20230519T130509Z">
+        <seg>Y la gente simplemente viene, se reúne, comparte historias y amor con los demás.”</seg>
       </tuv>
     </tu>
     <tu>
