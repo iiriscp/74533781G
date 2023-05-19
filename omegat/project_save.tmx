@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -962,8 +962,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>Her playful chiding is a testimony to the deep relationship she’s established with everyone in the team, and a reminder to this world that no matter how broken, all hearts can learn to love.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Sus juguetonas reprimendas son un testimonio de la profunda relación que ha establecido con todos los miembros del equipo, y un recordatorio para este mundo de que, por muy rotos que estén, todos los corazones pueden aprender a amar.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T135600Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sus regañinas de broma son un testimonio de la profunda relación que ha establecido con todos los miembros del equipo, y un recordatorio para este mundo de que, por muy rotos que estén, todos los corazones pueden aprender a amar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1874,8 +1874,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Sandhya is taking literacy classes from Kat-Katha during this lockdown, and is making sure that her daughter regularly attends online classes too.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Sandhya está recibiendo clases de alfabetización de Kat-Katha durante este cierre y se asegura de que su hija también asista regularmente a clases en línea.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T135259Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya está recibiendo clases de alfabetización de Kat-Katha durante este confinamiento y se asegura de que su hija también asista regularmente a clases en línea.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,8 +1898,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Sandhya now lives on her own terms and proudly says “koi tension nahi” with a big bright smile whenever any challenges come her way.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Sandhya vive ahora a su aire y dice orgullosa "koi tension nahi" con una gran sonrisa cada vez que se le presenta un reto.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T135155Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya vive ahora bajo sus propios términos y afirma orgullosa "koi tension nahi" con una gran sonrisa cada vez que se le presenta un reto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,8 +1994,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Shattered as she was on having lost her partner of many years, Sandhya finds courage in her daughter and her friendships with all the other didis accompanying her on this journey.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Destrozada como estaba por haber perdido a su compañero de muchos años, Sandhya encuentra valor en su hija y en su amistad con todos los demás didis que la acompañan en este viaje.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T134905Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Destrozada como estaba por haber perdido a su compañero de muchos años, Sandhya encuentra valor en su hija y en su amistad con todas los demás compañeras que la acompañan en este viaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,16 +2090,16 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>She is slowly inching her way closer to her dream of opening a South Indian Restaurant someday and naming it after her mother.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Poco a poco se acerca a su sueño de abrir algún día un restaurante en el sur de la India y ponerle el nombre de su madre.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T135620Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Poco a poco se acerca a su sueño de abrir algún día un restaurante en el sur de India y ponerle el nombre de su madre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>She is striving to find a safe hostel where her daughter can enrol to become a police officer when she grows up.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Se esfuerza por encontrar un albergue seguro donde su hija pueda matricularse para ser policía cuando crezca.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T135321Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Se está esforzando por encontrar un albergue seguro donde su hija pueda matricularse para ser policía cuando crezca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,8 +2670,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>These dreams are what’s making her look forward to another day.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Estos sueños son los que la hacen esperar un día más.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T140035Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Estos sueños son los que hacen que espere con ganas un nuevo día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2878,8 +2878,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>Though Sanjay was the one who rescued her from the brothel, promised her a new life and sparked hope in her, it was Sandhya all along who fueled this hope and she is determined to not let Sanjya’s violent disloyalty stop her from continuing to work towards a better future for her and her daughter.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Aunque Sanjay fue quien la rescató del burdel, le prometió una nueva vida y despertó en ella la esperanza, fue Sandhya quien la alimentó desde el principio y está decidida a no dejar que la violenta deslealtad de Sanjya le impida seguir trabajando por un futuro mejor para ella y su hija.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T134929Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Aunque Sanjay fue quien la rescató del burdel, le prometió una nueva vida y despertó en ella la esperanza, fue Sandhya quien la alimentó desde el principio y está decidida a no dejar que la violenta deslealtad de Sanjay le impida seguir trabajando por un futuro mejor para ella y su hija.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3281,8 +3281,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>With castles in her mind, she wakes up in her rented one-bedroom accommodation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Con castillos en la cabeza, se despierta en su habitación de alquiler.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T140133Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Con castillos en la cabeza, se despierta en su habitación individual de alquiler.</seg>
       </tuv>
     </tu>
     <tu>
