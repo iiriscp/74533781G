@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -359,6 +359,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Arjun Rathod, a regular 19 year old kid, was born in the diseased alleys of GB Road to a sex worker.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T140845Z" creationid="Sara" creationdate="20230519T140845Z">
+        <seg>Arjun Rathod, un chico normal de 19 años, nació en los callejones enfermos de GB Road, hijo de una trabajadora del sexo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Arjun who joined the organization as a volunteer never knew that this was going to be the beginning of a glorious new chapter.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
@@ -391,10 +399,18 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>As a child, his first life lesson was unfortunately witnessing […]</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T140825Z" creationid="Sara" creationdate="20230519T140825Z">
+        <seg>De niño, su primera lección de vida fue, por desgracia, ser testigo[…]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>As a child, his first life lesson was unfortunately witnessing the violent, brutal and unjust attitude of people towards the sex workers and their children.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>De niño, su primera lección de vida fue, por desgracia, ser testigo de la actitud violenta, brutal e injusta de la gente hacia las trabajadoras del sexo y sus hijos.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T140919Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>De niño, su primera lección de vida fue, por desgracia, ser testigo de la actitud violenta, brutal e injusta de la gente hacia las trabajadoras sexuales y sus hijos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3033,6 +3049,14 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
         <seg>La visión con acción puede cambiar el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Vision without action is merely a dream.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T140741Z" creationid="Sara" creationdate="20230519T140741Z">
+        <seg>La visión sin acción no es más que un sueño.</seg>
       </tuv>
     </tu>
     <tu>
