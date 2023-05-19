@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;S&lt;/s0&gt;andhya was 11 years old when tragedy befell her and she lost her father.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T142114Z" creationid="Sara" creationdate="20230519T142114Z">
+        <seg>&lt;s0&gt;S&lt;/s0&gt;andhya tan solo tenía 11 años cuando le sobrevino la tragedia y perdió a su padre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>&lt;s0&gt;Sonu and the two other boys from Kat-Katha formed a dance group named “The Mystical Movers” in 2017 with a vision to make GB Road a street of love through dance and encourage more children to take up dance to transform their lives.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Sara" changedate="20230519T140345Z" creationid="Sara" creationdate="20230519T140345Z">
@@ -898,8 +906,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>Having already lost her mother a few years earlier, the death of her father was a period of immense difficulty for Sandhya and her brother who was just a year older.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Como ya había perdido a su madre unos años antes, la muerte de su padre supuso un periodo de inmensas dificultades para Sandhya y su hermano, que sólo tenía un año más.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T142127Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Como ya había perdido a su madre unos años antes, la muerte de su padre supuso un periodo de inmensas dificultades para Sandhya y para su hermano, que sólo tenía un año más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1986,8 +1994,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Sandhya stayed with the family which consisted of the man, his wife and two more girls living with them who at first Sandhya thought were his daughters, only to find the real sinister truth much later.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Sandhya se quedó con la familia formada por el hombre, su mujer y otras dos niñas que vivían con ellos y que al principio Sandhya pensó que eran sus hijas, para descubrir mucho más tarde la siniestra verdad.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T142314Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Sandhya se quedó con la familia formada por el hombre, su mujer y otras dos niñas que vivían con ellos y que al principio Sandhya pensó que eran sus hijas,y descubrió mucho más tarde la siniestra verdad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2621,8 +2629,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>The siblings became dependent on the hand-offs of relatives and would constantly be cursed and be treated as an unwanted weight on their family’s already limited resources.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Los hermanos pasaron a depender de las limosnas de sus parientes y constantemente eran maldecidos y tratados como un peso no deseado para los ya limitados recursos de su familia.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T142208Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Los hermanos pasaron a depender de las limosnas de sus familiares y constantemente eran maldecidos y tratados como un peso no deseado para los ya limitados recursos de su familia.</seg>
       </tuv>
     </tu>
     <tu>
