@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -529,8 +529,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>During the 2020 COVID lockdown, however, operations at Maitri Meals came to a halt but this still did not dampen Sandhya’s spirits.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Sin embargo, durante el cierre de COVID en 2020, las actividades de Maitri Meals se paralizaron, pero esto no mermó el ánimo de Sandhya.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T133905Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sin embargo, durante el confinamiento de COVID en 2020, las actividades de Maitri Meals se paralizaron, pero esto no apagó el espíritu de Sandhya.</seg>
       </tuv>
     </tu>
     <tu>
