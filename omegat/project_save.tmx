@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1466,8 +1466,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Sandhya would earn from a customer-to-customer basis and have walked out of the brothel without any money in hand.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Sandhya ganaba de cliente en cliente y llegó a salir del burdel sin dinero en la mano.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T132939Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya ganaba de cliente en cliente y llegó a salir del burdel sin dinero en el bolsillo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2070,8 +2070,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>They both took a small room on rent nearby and started their own small family together, Soon Sandhya was pregnant and gave birth to a baby girl.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Ambos alquilaron una pequeña habitación cerca de allí y empezaron a formar su propia familia.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T132519Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Ambos alquilaron una pequeña habitación cerca de allí y empezaron a formar su propia familia. Al poco tiempo Sandhya se quedó embarazada y dió a luz a una niña.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2254,8 +2254,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>To sustain the family and their daughter, when they reach out to her former employer – her brothel owner, she lured her into sex work again.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Para mantener a la familia y a su hija, cuando se pusieron en contacto con su antigua empleadora, la dueña del burdel, ésta la atrajo de nuevo al trabajo sexual.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T133159Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Para mantener a la familia y a su hija, cuando se pusieron en contacto con su antigua jefa, la dueña del burdel, la atrajo de nuevo al trabajo sexual.</seg>
       </tuv>
     </tu>
     <tu>
