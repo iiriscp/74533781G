@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2030,8 +2030,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>Thereon, everytime I had to visit the G.B Road center, I would make sure that I went inside brothels, took a closer look; and I found out that they were deprived of all rights and freedom.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Por eso, cada vez que tenía que visitar el centro de G.B Road, me aseguraba de entrar en los burdeles, echar un vistazo más de cerca; y descubrí que estaban privadas de todo derecho y libertad.</seg>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T132946Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Por eso, cada vez que tenía que visitar el centro del barrio rojo de Delhi, me aseguraba de entrar en los burdeles, echar un vistazo más de cerca; y descubrí que estaban privadas de todo derecho y libertad.</seg>
       </tuv>
     </tu>
     <tu>
