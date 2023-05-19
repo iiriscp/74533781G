@@ -806,6 +806,14 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Through another spontaneous sequence of events, she found herself talking with an official the Gandhi Ashram in Delhi.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T131248Z" creationid="marsanchez" creationdate="20230519T131248Z">
+        <seg>Por otra secuencia espontánea de acontecimientos, se encontró hablando con un funcionario del Gandhi Ashram en Delhi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>We have days when motivation runs dry, with funds, and volunteer support missing and other obstacles.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
