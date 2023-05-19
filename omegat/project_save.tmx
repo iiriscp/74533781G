@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -954,8 +954,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>His mother was on drugs for many years but Sonu had a dream to take her out of sex trade where she was forced.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Su madre se drogó durante muchos años, pero Sonu soñaba con sacarla del comercio sexual al que la obligaban.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T135426Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Su madre se drogaba durante muchos años, pero Sonu soñaba con sacarla del tráfico sexal en el que la obligaban a participar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1978,8 +1978,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>She decided that Sonu should study in Kat-Katha where she herself learned tailoring.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Decidió que Sonu estudiara en Kat-Katha, donde ella misma aprendió corte y confección.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T135251Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Decidió que Sonu estudiara en Kat-Katha, donde ella misma aprendió sastrería.</seg>
       </tuv>
     </tu>
     <tu>
