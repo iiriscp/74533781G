@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3112,8 +3112,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>Whatever you say.”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Lo que tú digas."</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135358Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Lo que usted digas."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3529,8 +3529,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>“It's such a beautiful painting, you really think you want to put up advertisements over this particular painting?” Gitanjali asked.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>"Es un cuadro tan bonito, ¿de verdad crees que quieres poner publicidad sobre este cuadro en concreto?". preguntó Gitanjali.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135258Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Es un mural muy bonito, ¿de verdad crees que quieres poner publicidad sobre este mural en concreto?". preguntó Gitanjali.</seg>
       </tuv>
     </tu>
     <tu>
