@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -80,8 +80,8 @@
       <tuv lang="en-GB">
         <seg>After a bit of small talk and explanation from Gitanjali and the volunteers, she still wouldn't budge.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Después de que Gitanjali y los voluntarios le dieran algunas explicaciones y charlas, siguió sin ceder.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T133025Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Después de que Gitanjali y los voluntarios hablaran un poco con ella y le dieran algunas explicaciones, siguió sin ceder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2633,8 +2633,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>You please play whatever is there.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Por favor, toca lo que haya.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T133159Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Por favor, toca cualquier cosa que haya.</seg>
       </tuv>
     </tu>
     <tu>
