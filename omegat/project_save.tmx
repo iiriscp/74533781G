@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -136,8 +136,8 @@
       <tuv lang="en-GB">
         <seg>Agonized, Arjun sought for a purpose in his life.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Agonizante, Arjun buscó un propósito en su vida.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T140958Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Agonizando, Arjun buscó un propósito en su vida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,8 +1034,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>His search for this unrequited solace led him to Kat-Katha, a Delhi based organization which had been working for the upliftment of the sex worker community.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Su búsqueda de este consuelo no correspondido le condujo a Kat-Katha, una organización con sede en Delhi que había estado trabajando por la mejora de la comunidad de trabajadores del sexo.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T141213Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Su búsqueda de este consuelo no correspondido le llevó a Kat-Katha, una organización con sede en Delhi que había estado trabajando por la mejora de la comunidad de trabajadores sexuales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2896,6 +2896,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mange" changedate="20230504T162300Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
         <seg>Esto continuó durante unos años, Sandhya se familiarizó con el oficio y aprendió a encontrar la felicidad en esta extraña sensación de normalidad en la que el maltrato y la violencia eran fenómenos cotidianos. - ¶ ---------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>This ignorance and disrepute followed him and eventually coerced him to leave his studies after class 6&lt;s0&gt;th&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T140946Z" creationid="Sara" creationdate="20230519T140946Z">
+        <seg>Esta ignorancia y descrédito le persiguieron y finalmente le obligaron a abandonar sus estudios después de 6º curso.&lt;s0&gt;th&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
