@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>...But it's actually not magic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>...Pero en realidad no es magia.</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>A client whose involvement in Sandhya’s life would sound like a bizarre plot from a Bollywood movie.</seg>
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Hace unos años, Gitanjali Babbar entró directamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>A group of young college and 20-something-year old girls are inside dancing for the brothel women.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Un grupo de jóvenes universitarias y veinteañeras están dentro bailando para las mujeres del burdel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>After a bit of small talk and explanation from Gitanjali and the volunteers, she still wouldn't budge.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Después de que Gitanjali y los voluntarios le dieran algunas explicaciones y charlas, siguió sin ceder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>After incubating the idea throughout the spring, the seeds of a carnival began to sprout.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Tras incubar la idea durante toda la primavera, empezaron a brotar las semillas de un carnaval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>After this initial disciplining, mummy would tell her how she loves her, and how all this is only for her well being.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mange" changedate="20230504T162159Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
@@ -70,10 +102,42 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>An Agenda of No Agenda</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Una agenda de no agenda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>And I could also see wooden compartments.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230505T144529Z" creationid="alexi" creationdate="20230505T144529Z">
         <seg>También pude ver compartimentos de madera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And I'm just a part of that space.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Y yo sólo soy parte de ese espacio".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And after that, the owner also joined in.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Y después, el dueño también se unió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And in that state of openness, so much can emerge.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T093124Z" creationid="marsanchez" creationdate="20230510T093124Z">
+        <seg>Y en ese estado de sinceridad, muchas cosas pueden emerger.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +174,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>And then Gitanjali lightheartedly inquired, “Do you want us to come paint your police station?”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Y entonces Gitanjali preguntó alegremente: "¿Quieres que vayamos a pintar tu comisaría?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And these girls are fighting with the bodyguards, saying, “You stay down here, I am safe!” And then when we come back downstairs the bodyguards are asking for stories, saying, “Can I also go upstairs?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Y estas chicas se pelean con los guardaespaldas diciendo: "Quedaos aquí abajo, estoy a salvo". Y cuando volvemos abajo, los guardaespaldas nos piden historias, diciendo: "¿Puedo subir también?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And we were learning them together.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T142959Z" creationid="marsanchez" creationdate="20230505T142959Z">
+        <seg>Y estábamos aprendiendo juntos”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>And, I haven’t ever been to hell, but as a spectator, I can agree.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -135,6 +223,22 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>And, just a few weeks ago (while Gitanjali has been in the US), her volunteers informed her that they celebrated Diwali with the policemen.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Hace unas semanas (mientras Gitanjali estaba en Estados Unidos), sus voluntarios le informaron de que habían celebrado Diwali con los policías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>And, sure enough, she knew nothing about the event.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Y, efectivamente, ella no sabía nada del evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>And, they will not only be accepted outside the G.B.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -147,6 +251,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Y conocimos a Radha, que estaba dispuesta a venir a G. B. Road a enseñar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Another person made a Facebook page.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Otra persona creó una página en Facebook.</seg>
       </tuv>
     </tu>
     <tu>
@@ -167,10 +279,26 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>As Kat-Katha began to grow, the brothel women and children began to bloom.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143935Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>A medida que Kat-Katha comenzó a crecer, las mujeres y los niños del burdel comenzaron a crecer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>As an experiment we decided to train in newer skills, as alternative livelihood options for them.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Como experimento, decidimos formarles en nuevas habilidades, como opciones alternativas de subsistencia para ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As she recounts these stories, she mentions, “We call Kat-Katha a magic.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Mientras relata estas historias, menciona: "Llamamos Kat-Katha a la magia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -199,10 +327,34 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>At this point in the story, Gitanjali informed us, “I'm not a good singer.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>En este punto de la historia, Gitanjali nos informó: "No soy buena cantante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Awestruck at finding herself in such a situation, she picked one of the buildings, and she plans to renovate it into a hostel with her Kat-Katha family by next spring.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T131536Z" creationid="marsanchez" creationdate="20230519T131536Z">
         <seg>Asombrada por encontrarse en semejante situación, eligió uno de los edificios, y planea renovarlo para convertirlo en un albergue junto a su familia Kat-Katha para la próxima primavera..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Because he could've stopped everything.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Porque podía haberlo evitado todo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Because they always wanted to have such things in their lives.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Porque siempre quisieron tener cosas así en sus vidas".</seg>
       </tuv>
     </tu>
     <tu>
@@ -231,6 +383,46 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>But after your event, whatever was written on the wall before this, you must put it back,” he said sternly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Pero después de su evento, todo lo que estaba escrito en la pared antes de esto, debe ponerlo de nuevo", dijo con severidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But another volunteer who was with us is an amazing singer.” She was a very new volunteer, and so Gitanjali was hesitant to ask her to sing, but the moment she looked at her, the new volunteer said, “Yeah, yeah!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Pero otra voluntaria que estaba con nosotros es una cantante increíble". Era una voluntaria muy nueva, así que Gitanjali dudó si pedirle que cantara, pero en cuanto la miró, la nueva voluntaria dijo: "¡Sí, sí!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But he didn't.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Pero no lo hizo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But if I'm walking in that red light area, I feel that I'm the most safe person in that world.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143213Z" creationid="marsanchez" creationdate="20230505T143213Z">
+        <seg>Pero si estoy andando por esa zona de luces rojas, siento que soy la persona más segura del mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>But it doesn't matter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Pero no importa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>But she couldn't say no.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -243,6 +435,54 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Pero las maalkins se aseguraron de que sólo limitara las conversaciones a las que giran en torno a las preocupaciones oficiales: protección y salud sexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Can I also see what a brothel looks like?”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>¿Puedo ver también cómo es un burdel?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Can I have one?' So this thing just started evolving...</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143146Z" creationid="marsanchez" creationdate="20230505T143146Z">
+        <seg>¿Puedo comerme uno? Así que esta cosa justo acababa de evolucionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Can you just say some motivating words for our volunteers?”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>¿Puedes decir algunas palabras motivadoras para nuestros voluntarios?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Children wanted to study and learn different crafts and creative activities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Los niños querían estudiar y aprender diferentes oficios y actividades creativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Clients were outside the brothel doors insisting on coming in.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Los clientes insistían en entrar en el burdel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Companies gave them their used one-sided paper, and Kat-Katha began conducting trainings for the women to bind and craft notebooks from recycled paper as an offering for others.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T092346Z" creationid="marsanchez" creationdate="20230510T092346Z">
+        <seg>Las compañías les dieron papeles usados por una cara, y Kat-Katha empezó a llevar a cabo entrenamientos para enseñar a las mujeres a doblar y confeccionar libretas a partir de papel reciclado, como una ofrenda para los demás.</seg>
       </tuv>
     </tu>
     <tu>
@@ -271,6 +511,22 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Do you want to come and see?”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>¿Quiere venir a ver?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Do you want to take it to Kat-Katha?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T093635Z" creationid="marsanchez" creationdate="20230510T093635Z">
+        <seg>¿Queres llevarla a Kat-Katha?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>During the 2020 COVID lockdown, however, operations at Maitri Meals came to a halt but this still did not dampen Sandhya’s spirits.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
@@ -287,10 +543,58 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Even if it's 10 o'clock in the night, 11 o'clock in the night.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143228Z" creationid="marsanchez" creationdate="20230505T143228Z">
+        <seg>Incluso si son las 10 de la noche, las 11 de la noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Eventually, volunteers began asking, “We're doing so many things.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Finalmente, los voluntarios comenzaron a preguntar: "Estamos haciendo muchas cosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Finally, a sliver of possibility entered the conversation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Finalmente, un resquicio de posibilidad entró en la conversación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Floored by how the doors of possibility continue to swing open, Gitanjali and the volunteers began cleaning the streets.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Impresionados por cómo se siguen abriendo las puertas de la posibilidad, Gitanjali y los voluntarios empezaron a limpiar las calles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>For a long time, Gitanjali had a dream to turn G.B.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Durante mucho tiempo, Gitanjali soñó con convertir G.B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>For her, these conversations felt forced and mechanical.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Para ella, estas conversaciones eran forzadas y mecánicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Friends, acquaintances, and even strangers would catch a hold of her stories and want to learn more.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143302Z" creationid="marsanchez" creationdate="20230505T143302Z">
+        <seg>Amigos, conocidos, e incluso desconocidos tendrían interés en sus historias y querrían saber más.</seg>
       </tuv>
     </tu>
     <tu>
@@ -311,6 +615,31 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>From there, other woman in the brothel took notice of these lessons and wanted to join.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143019Z" creationid="marsanchez" creationdate="20230505T143019Z">
+        <seg>A partir de ahí, otras mujeres del burdel se fijaron en estas clases y quisieron unirse.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gitanjali had no plan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Gitanjali no tenía ningún plan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gitanjali noticed the head police officer (who had originally refused permission to block the roads) standing there and watching them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Gitanjali se dio cuenta de que el jefe de policía (que en un principio había denegado el permiso para bloquear las carreteras) estaba allí de pie y los observaba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gitanjali was silent.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -319,10 +648,34 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>He had scheduled a meeting to discuss the logistics, and invited her to come.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Había programado una reunión para discutir la logística y la invitó a asistir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>He informed her that she should have a hostel for the brothel children (to which, of course, she agreed :)), and he invited her to pick any of the unused ashram buildings to become that hostel.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T131452Z" creationid="marsanchez" creationdate="20230519T131452Z">
         <seg> Él le informó de que debía tener un albergue para los niños de los burdeles (a lo que, por supuesto, ella accedió :)), y la invitó a elegir cualquiera de los edificios del ashram en desuso para convertirlo en ese albergue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He never came.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Nunca vino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He said, “No, it's government rule.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Él respondió: "No, son normas del gobierno".</seg>
       </tuv>
     </tu>
     <tu>
@@ -391,6 +744,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>How can you even think of such stupid ideas?”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>¿Cómo se os ocurren ideas tan estúpidas?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>How else would one define hell?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -436,6 +797,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Sin embargo, se mostraron reacias e incluso dijeron que estaban hechas sólo para el trabajo sexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I can sing!</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>¡Puedo cantar!</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,10 +857,34 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>I feel unsafe in Delhi.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143202Z" creationid="marsanchez" creationdate="20230505T143202Z">
+        <seg>Me siento insegura en Delhi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I really want that these ladies should come down from the brothel and they should just have fun.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Quiero que las mujeres salgan del burdel y se diviertan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>I recall I was soon asked to leave.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230510T092207Z" creationid="alexi" creationdate="20230510T092207Z">
         <seg>Recuerdo que no tardaron mucho en pedirme que me fuera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I said, “Yeah, Okay.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Le dije: "Sí, de acuerdo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -508,6 +901,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Empecé a compartir mi intención con otras personas, busqué a gente adecuada y encontré a un amigo, Ankush, que más tarde se convirtió en el director regional de Yuva Parivartan, una ONG que facilita el desarrollo de habilidades en jóvenes que han abandonado los estudios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I think his prayers were there.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Creo que sus oraciones estaban allí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +939,38 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>I would say, “What is happening?!””</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Yo decía: "¡¿Qué está pasando?!".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I'll sing!”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Yo cantaré".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I'm coming, I'm coming.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Ya voy, ya voy."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>If I was hungry, I used to go into one brothel and they'd give me food.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143107Z" creationid="marsanchez" creationdate="20230505T143107Z">
+        <seg>Si tenía hambre, iba a uno de los burdeles y ellos me daban comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>If anything, her zeal of carving a niche for herself is stronger than ever before.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
@@ -551,6 +984,22 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
       <tuv lang="es-ES" changeid="mange" changedate="20230505T143249Z" creationid="mange" creationdate="20230505T143249Z">
         <seg>Si le pillaban comiendo del plato de otra mujer, le azotarían con un cinturón.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>If there is a student who wants to learn how to play the harmonium, the next day, I'll get a call from someone who says, “I have an old harmonium at home.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T093623Z" creationid="marsanchez" creationdate="20230510T093459Z">
+        <seg>Si hay un estudiante que quiere aprender a tocar la harmónica, al día siguente me llegará una llamada de alguien diciendo "Tengo una harmónica vieja en casa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>If there is some good smell in some other brothel, I used to go into that brothel and say, 'Didi [sister], I think you're making naan.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143151Z" creationid="marsanchez" creationdate="20230505T143122Z">
+        <seg>Si había un buen olor en cualquier otro burdel, iba a ese y decía: 'Didi (hermana), creo que estás haciendo naan </seg>
       </tuv>
     </tu>
     <tu>
@@ -579,6 +1028,31 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>In any of the brothels.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143233Z" creationid="marsanchez" creationdate="20230505T143233Z">
+        <seg>En cualquier burdel.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>In her playful spirit, she gathered the volunteers and went to invite him.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Con su espíritu juguetón, reunió a los voluntarios y fue a invitarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It read something like, “Please Use Precautions”.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Decía algo así como: "Por favor, tome precauciones".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>It was an uphill journey as she had held the Silai machine in her hands for the first time and dealt with the many frustrations of learning a new skill.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
@@ -587,10 +1061,58 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>It was in his power.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Estaba en su mano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It was like a completely different world.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Era como un mundo completamente distinto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>It was not only through the day but also at night, they lived a compromised life.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230510T092110Z" creationid="alexi" creationdate="20230510T092057Z">
         <seg>No solo duirante el día, sino también por la noche, estaban sometidas al comprimiso que su trabajoo les suponía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It was ten o'clock at night.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Eran las diez de la noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It's good.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Está muy bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It's the prayers of these women and the children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Son las oraciones de estas mujeres y de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It's your dream, and we're planning a carnival.””</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Es tu sueño, y estamos planeando un carnaval"".</seg>
       </tuv>
     </tu>
     <tu>
@@ -657,6 +1179,30 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Mi equipo también creció en número y se me unió otro voluntario del Yuva Parivahan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Not sure what to do, she went to the police commissioner and shared about the carnival and the reasoning behind the day's festivities.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Sin saber qué hacer, se dirigió al comisario de policía y le habló del carnaval y de los motivos de la fiesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Nothing else.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Nada más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>On August 15, the day of the event, all the policemen were inside.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>El 15 de agosto, día del evento, todos los policías estaban dentro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,10 +1296,50 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Over the course of a month, someone designed and printed posters.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>A lo largo de un mes, alguien diseñó e imprimió carteles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Over time, she would return home and share about her experience on social media channels like Facebook.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143250Z" creationid="marsanchez" creationdate="20230505T143250Z">
+        <seg>Con el paso del tiempo, volvería a casa y compartiría su experiencia en redes sociales como Facebook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rather than needing or seeking out what they didn't have, Gitanjali and her team worked within their constraints to create spaces of learning.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T092543Z" creationid="marsanchez" creationdate="20230510T092543Z">
+        <seg>En vez de necesitar o buscar lo que no tienen, Gitanjali y su equipo trabajaron dentro de sus limitaciones para crear un espacio de aprendizaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Ritu was continuously dancing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Ritu no paró de bailar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Road brothels into classrooms, community centers, and safe spaces for the women and their children to learn, explore creative arts, and come alive with a sense of connection, expression, and possibility.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Road en aulas, centros comunitarios y espacios seguros para que las mujeres y sus hijos aprendan, exploren las artes creativas y cobren vida con un sentido de conexión, expresión y posibilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Road into a carnival for all the women.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Road en un carnaval para todas las mujeres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +1356,14 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Road, sino que también recibirán apoyo y respeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Road, consists of 120 volunteers around the globe, and runs a school for 17 brothel children.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Road, está formado por 120 voluntarios en todo el mundo, y dirige una escuela para 17 niños de burdeles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,6 +1512,14 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Several volunteers had just painted murals in Delhi, and so they began painting a mural on G.B.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Varios voluntarios acababan de pintar murales en Delhi, así que empezaron a pintar un mural en G.B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sex trade acts like a vicious trap where all vulnerabilities are capitalised on, and the brothel owner took this opportunity to capitalise on Sandhya’s desperate condition to push her into further abuse and exerted her body beyond limits.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
@@ -942,6 +1544,14 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>She continued to see the possibility in what was in front of her.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T091851Z" creationid="marsanchez" creationdate="20230510T091851Z">
+        <seg>Contunuó viendo la posibilidad que había delante de ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>She did not only enjoy the first day, but became a friend for the ladies, and took them out to McDonald’s in Connaught Place.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -962,6 +1572,14 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
         <seg>Descubrió su pasión por la cocina del sur de la India, que le recordaba los viejos tiempos en los que se sentaba junto a su madre en la chulha y les servía dosas calientes a ella y a su hermano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She doesn't see herself as the founder or initiator of it all; but rather, she shares the stories as if recounting a series of accidents-- a chain of funny coincidences and serendipities that happen to fall in line with her dreams for Kat-Katha and the brothel women and children's prayers.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143857Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Ella no se ve a sí misma como la fundadora o iniciadora de todo, sino que comparte las historias como si contara una serie de accidentes, una cadena de coincidencias divertidas y casualidades que pasan a coincidir con sus sueños para KatKatha, las mujeres del burdel y las oraciones de los niños.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1079,6 +1697,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Six feet tall and huge.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Seis pies de altura y enormes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Slowly, as the obstacles grew, so did their strength and passion for love.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mange" changedate="20230510T091953Z" creationid="mange" creationdate="20230510T091953Z">
@@ -1087,10 +1713,59 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>So it just became a platform where love and everything is just flowing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T093822Z" creationid="marsanchez" creationdate="20230510T093822Z">
+        <seg>Así que justo se convirtió en una plataforma donde el amor y todo está fluyendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>So the evening we had planned for the next day, it actually happened right there.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Así que la velada que habíamos planeado para el día siguiente ocurrió allí mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>So then they went up and talked with the new brothel owner.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Así que subieron y hablaron con la nueva dueña del burdel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Some highlights from the sharing are captured below.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>A continuación se recogen algunos de los momentos más destacados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Some would want to see and experience it for themselves.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143320Z" creationid="marsanchez" creationdate="20230505T143320Z">
+        <seg>Algunos querrían verlo y experimentarlo por sí mismos.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Someone designed Kat-Katha t-shirts, inspired by the children's wishes for a t-shirt.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Alguien diseñó camisetas de Kat-Katha, inspirándose en los deseos de los niños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Someone donated book-binding machines.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T091950Z" creationid="marsanchez" creationdate="20230510T091950Z">
+        <seg>Alguien donó maquinas para encuadernar libros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1127,6 +1802,30 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Ten-year plan?”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143919Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>¿Un plan de diez años?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>That much money got deposited.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Me decían: "¿Qué está pasando?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>That's it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Nada más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>That’s the superpower of Sandhya.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
@@ -1159,10 +1858,26 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The day before the event, Gitanjali thought, “Let me just go and check with the brothel owner to make sure everything is okay with her.” So they went to the brothel and found a new owner sitting there.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>El día antes del evento, Gitanjali pensó: "Déjame ir a ver a la dueña del burdel para asegurarme de que todo está bien con ella". Así que fueron al burdel y encontraron a la nueva dueña sentada allí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The hostel authorities would not let Sandhya meet her daughter and would consider her unfit and even a threat as a mother.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
         <seg>Las autoridades del albergue no dejaban que Sandhya se reuniera con su hija y la consideraban incapaz e incluso una amenaza como madre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The joy and spirit from their sense of connection and co-creation breathed life into their material resources, and left them in a constant state of abundance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T093000Z" creationid="marsanchez" creationdate="20230510T093000Z">
+        <seg>La alegría y el espíritu de su sentido de conexión y co-creación le dieron vida a sus recursos materiales, y los dejó en un estado de abundancia constante. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1172,6 +1887,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="es-ES" changeid="mange" changedate="20230505T143125Z" creationid="mange" creationdate="20230505T143125Z">
         <seg>El hombre había vendido a Sandhya al propietario de un burdel en GB Road.
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The original wall was barely legible, with an old advertisement from the National AIDS Control Organization.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>La pared original era apenas legible, con un viejo anuncio de la Organización Nacional de Control del SIDA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1201,6 +1924,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The volunteers had organized the gathering and invited folks to come.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T132434Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Los voluntarios habían organizado la reunión e invitado a gente a ir .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The whole one hour.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -1225,10 +1956,74 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Then Ritu, Kat-Katha's co-founder asked for the ghungroos [ankle bells], and Gitanjali found herself completely at a loss for words.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Entonces Ritu, la cofundadora de Kat-Katha, pidió los ghungroos [campanillas para los tobillos], y Gitanjali se quedó sin palabras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Then a few more started meeting us over the weekends, where we gathered to watch films, conduct discussions or to do art and craft etc.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Luego, algunas más empezaron a reunirse con nosotras los fines de semana, donde nos reuníamos para ver películas, mantener debates o hacer arte y manualidades, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Then she gestures to two of her volunteers in the circle with us and adds, “I would've never imagined someone from Los Angeles would come and stay in those brothels with these women.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Luego señala a dos de sus voluntarias que están en el círculo con nosotras y añade: "Nunca habría imaginado que alguien de Los Ángeles vendría y se quedaría en esos burdeles con estas mujeres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Then the police commissioner went on to instruct all the police officers to support the carnival-- to block the roads and support any necessary event coordination logistics.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>A continuación, el comisario de policía dio instrucciones a todos los agentes para que apoyaran el carnaval: que bloquearan las carreteras y apoyaran toda la logística necesaria para coordinar el evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Then, Gitanjali put in a request at the police station to block the road for the carnival.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Entonces, Gitanjali presentó una solicitud en comisaría para bloquear la carretera durante el carnaval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Then, the children of these women became curious and started asking her to play with them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143036Z" creationid="marsanchez" creationdate="20230505T143036Z">
+        <seg>Entonces, los hijos de estas mujeres tuvieron curiosidad y empezaron a preguntarle a ella si quería jugar con ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Then, when you take a minute to realize the content of what she's actually saying, you become struck speechless by how powerful it all is.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143820Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Cuando Gitanjali describe el desarrollo de Kat Katha y su propio viaje en constante evolución, hay un brillo en sus ojos, pero hay un sentido sorprendente de humildad..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>There'll be no owner, no client, no police, nothing doing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>No habrá dueño, ni cliente, ni policía, nada que hacer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>There's so much beauty in a leader who doesn't view herself as leading.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Hay tanta belleza en una líder que no se ve a sí misma como líder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1265,6 +2060,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>They actually painted the police station, and filled it with candles and holiday decorations.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>De hecho, pintaron la comisaría y la llenaron de velas y adornos navideños.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>They both took a small room on rent nearby and started their own small family together, Soon Sandhya was pregnant and gave birth to a baby girl.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
@@ -1297,6 +2100,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>They had agreed to be outside, patrolling the premises, but they ended up enjoying some of the festivities themselves.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Habían acordado estar fuera, patrullando el recinto, pero acabaron disfrutando ellos mismos de algunos de los festejos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>They live in dark rooms and filthy conditions, deprived of essentials and surrounded by dangerous people.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230518T164445Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -1321,10 +2132,34 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>They picked up trash and washed the vandalized walls.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Recogieron la basura y lavaron los muros vandalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>They protested, asked about where the man was, where she was taking them and all sorts of other questions but she wouldn’t listen and threatened to beat them if they just didn’t follow her.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mange" changedate="20230505T143055Z" creationid="mange" creationdate="20230505T143055Z">
         <seg>Ellas protestaron, preguntaron donde estaba el hombre, donde iba a llevarles y todo tipo de preguntas pero ella no les escuchaba y amenazó con pegarles si no le seguían.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They should just enjoy their day.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Que simplemente disfruten de su día".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They taught classes directly in the brothels.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T091914Z" creationid="marsanchez" creationdate="20230510T091914Z">
+        <seg>Dieron clases directamente en los burdeles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1369,6 +2204,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Though Gitanjali and Ritu carry the responsibilities for Kat-Katha, they simply see their work as supporting the co-creation of a space to nurture, educate, and enrich the community.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Aunque Gitanjali y Ritu llevan las responsabilidades de Kat-Katha, simplemente ven su trabajo como un apoyo a la cocreación de un espacio para nutrir, educar y enriquecer a la comunidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Though Sanjay was the one who rescued her from the brothel, promised her a new life and sparked hope in her, it was Sandhya all along who fueled this hope and she is determined to not let Sanjya’s violent disloyalty stop her from continuing to work towards a better future for her and her daughter.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
@@ -1393,6 +2236,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Three days later, she received a call from the him.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Tres días después, recibió una llamada suya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Through another spontaneous sequence of events, she found herself talking with an official the Gandhi Ashram in Delhi.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T131248Z" creationid="marsanchez" creationdate="20230519T131248Z">
@@ -1405,6 +2256,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
         <seg>Para mantener a la familia y a su hija, cuando se pusieron en contacto con su antigua empleadora, la dueña del burdel, ésta la atrajo de nuevo al trabajo sexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Today, just three years later, Kat-Katha works with all 77 brothels on G.B.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Hoy, solo tres años después, Kat-Katha trabaja con los 77 burdeles de G.B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1426,6 +2285,55 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Up until then, she had simply been following the commands of her heart.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Hasta entonces, ella simplemente había estado siguiendo las órdenes de su corazón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Volunteers in the US and Australia spontaneously launched crowd-funding campaigns.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Voluntarios de Estados Unidos y Australia lanzaron espontáneamente campañas de crowdfunding.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Volunteers started coming from all directions.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143345Z" creationid="marsanchez" creationdate="20230505T143345Z">
+        <seg>Voluntarios empezaron a venir de todas partes.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We can't block it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>No podemos bloquearla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We didn't expect it.” Gitanjali recounted.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>No nos lo esperábamos". relató Gitanjali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We don't want all this.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>No queremos todo esto."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>We have days when motivation runs dry, with funds, and volunteer support missing and other obstacles.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -1438,6 +2346,14 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Esperábamos conocer sus intereses y que se reunieran con nosotros en el centro de enfermería.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We should start making a plan?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>¿Deberíamos empezar a hacer un plan?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,6 +2386,30 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230505T144431Z" creationid="alexi" creationdate="20230505T144431Z">
         <seg>Nos hicieron sentarnos en una habitación grande, donde la gente pasaba el día y se reunía para comer y conversar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We'll not do that.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>No lo haremos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We'll put that.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Pondremos eso".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>We've had volunteers from Google visit, and they have huge bodyguards with them.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Nos han visitado voluntarios de Google y llevan guardaespaldas enormes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,6 +2454,30 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>What's the five your plan?</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>¿Cuál es tu plan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Whatever you say.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Lo que tú digas."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>When Gitanjali describes the unfolding of Kat Katha and her own ever-evolving journey, there's a twinkle in her eye, yet there's striking sense of humility to it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Cuando Gitanjali describe el desarrollo de Kat Katha y su propio viaje en constante evolución, hay un brillo en sus ojos, pero hay un sentido sorprendente de humildad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>When Gitanjali entered, about fifteen women were seated there, ready to reciprocate the very questions she asked of them.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -1534,6 +2498,14 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
         <seg>Cuando te centras en ser una bendición, Dios se asegura de que siempre seas bendecido en abundancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>When you listen to Gitanjali talk, you get the sense that it's so ordinary.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143813Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Cuando escuchas a Gitanjali hablar, tienes la sensación de que es muy común.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1611,10 +2583,50 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Women started asking for skills trainings and arts classes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
+        <seg>Las mujeres empezaron a pedir capacitación y clases de arte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yet instead of focusing on fundraising and setting up overhead, Gitanjali simply did what she could with what she had.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T091816Z" creationid="marsanchez" creationdate="20230510T091816Z">
+        <seg>Todavía, en lugar de centrarse en recaudar fondos y establecer los gastos generales; Gitanjali simplemente hizo lo que pudo con lo que tenía. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yet rather than build defenses and walls, Gitanjali's first instinct is gratitude and acceptance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Sin embargo, en lugar de construir defensas y muros, el primer instinto de Gitanjali es la gratitud y la aceptación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Yet the experience of being in the brothels stuck: “The moment I entered, it was a different world all together for me.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Sin embargo, la experiencia de estar en los burdeles se le quedó grabada: "En cuanto entré, para mí era otro mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>You can come tomorrow, but you have to pass through a test,” she declared.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Puedes venir mañana, pero tienes que pasar una prueba", declaró.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>You please play whatever is there.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Por favor, toca lo que haya.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1635,10 +2647,122 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_Aug15_KidsDancing.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_Aug15_KidsDancing.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_GitanjaliCakeKids.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_GitanjaliCakeKids.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_GitanjaliRitu.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_GitanjaliRitu.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_HariUncleGitanjali.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_HariUncleGitanjali.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_PyarKaMohallaMural.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_PyarKaMohallaMural.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_PyarKaMohallaMural_BeforeAfter.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_PyarKaMohallaMural_BeforeAfter.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_PyarKaMohollaFlyer.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_PyarKaMohollaFlyer.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_StreetCelebration.jpg</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>http://www.servicespace.org/inc/ckfinder/userfiles/images/tigers/Kat-Katha_StreetCelebration.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>‘Mummy’ would beat her up if she spoke to a customer, mummy would beat her up if her make-up wasn’t right, mummy would beat her up if she ate more than once a day.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mange" changedate="20230504T162120Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
         <seg>"Mami" le pegaba si hablaba con un cliente, mami le pegaba si su maquillaje no era correcto, mami le pegaba si comía más de una vez al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Actually, we were just studying together,” Gitanjali chuckles, “I was just making up for all the lessons I didn't learn in school.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T142934Z" creationid="marsanchez" creationdate="20230505T142934Z">
+        <seg>“En realidad, solo estábamos estudiando juntos", se rio Gitanjali. "Solo estaba compensando todas las lecciones que no aprendí en el colegio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“And when I asked, “What's going on?” the volunteers said, “We're planning a carnival.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Y cuando pregunté: "¿Qué está pasando?", los voluntarios me dijeron: "Estamos planeando un carnaval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“And, like this, everyday some magic happens in that space.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Y, así, todos los días ocurre algo mágico en ese espacio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Because if there is a student who wants to learn dance, the next day we'll get a volunteer who can teach dance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T093441Z" creationid="marsanchez" creationdate="20230510T093441Z">
+        <seg>“Porque si hay un estudiante que quiere aprender a bailar, al día siguiente traeremos a un voluntario que enseñe baile".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“For one hour, the new volunteer was continuously singing.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Durante una hora, la nueva voluntaria estuvo cantando continuamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“He never crossed that road.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Nunca cruzó ese camino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1651,10 +2775,122 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>“I shared with someone a few months back, that I dream of having a carnival on that road.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Hace unos meses le dije a alguien que soñaba con hacer un carnaval en esa carretera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“I used to get SMS [text] messages on my phone saying this much money got deposited.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Recibía mensajes SMS en mi teléfono que decían que se había depositado tanto dinero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“In the month of July, I started hearing about it among the volunteers,” Gitanjali laughs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"En el mes de julio, empecé a oír hablar de ello entre los voluntarios", ríe Gitanjali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“It became a beautiful journey,” she describes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T093317Z" creationid="marsanchez" creationdate="20230510T093317Z">
+        <seg>"Se convirtió en un viaje precioso" describió ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“It's a very busy road.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Es una carretera muy transitada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“It's such a beautiful painting, you really think you want to put up advertisements over this particular painting?” Gitanjali asked.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Es un cuadro tan bonito, ¿de verdad crees que quieres poner publicidad sobre este cuadro en concreto?". preguntó Gitanjali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Just A Part Of That Space”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Sólo una parte de ese espacio"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Keep this business out of the police station.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Mantén este asunto fuera de la comisaría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“No!”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"¡No!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Not possible,” the station's head officer replied.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"No es posible", respondió el jefe de la comisaría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>“Ok, let's do something,” she replied.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>"De acuerdo, hagamos algo", respondió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Okay.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"De acuerdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“She's the main owner,” Gitanjali said, surprised.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Es la dueña principal", dijo Gitanjali, sorprendida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Sing a song for me.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Canta una canción para mí".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Sir, we are painting the walls.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Señor, estamos pintando las paredes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1667,6 +2903,14 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>“The brothel started becoming like a family for me.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143051Z" creationid="marsanchez" creationdate="20230505T143051Z">
+        <seg>“El burdel empezó a ser como una familia para mí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>“Then I started going to every brothel,” she laughs.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -1675,10 +2919,50 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>“We never spoke to her,” the volunteers informed her.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Nunca hablamos con ella", le informaron los voluntarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“When I went there, I saw all the station head officers sitting there,” Gitanjali explains.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Cuando fui, vi a todos los jefes de comisaría sentados allí", explica Gitanjali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>“When you cannot share your personal stories with us, why do you expect us to share our personal stories with you?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>"Si no puedes compartir tus historias personales con nosotros, ¿por qué esperas que compartamos nuestras historias personales contigo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Yeah, yeah.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Si, si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“Yes, yes.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Sí, sí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“You've organized an entire event in this brothel for tomorrow night and you've never spoken with her?”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"¿Habéis organizado todo un evento en este burdel para mañana por la noche y nunca habéis hablado con ella?".</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
