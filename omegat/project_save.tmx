@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1538,8 +1538,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>She continued receiving training stipend and rent allowance so that the uncertainty and the struggle of learning don’t push her to depend on sex work for sustenance.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Siguió recibiendo un estipendio de formación y un subsidio de alquiler para que la incertidumbre y la lucha por aprender no la empujaran a depender del trabajo sexual para subsistir.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T134226Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Siguió recibiendo una paga de formación y un subsidio de alquiler para que la incertidumbre y la lucha por aprender no la empujaran a depender del trabajo sexual para subsistir.</seg>
       </tuv>
     </tu>
     <tu>
