@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1209,8 +1209,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>On recalling my first day inside a brothel, or even on the GB Road itself, I am hit by the now alien feeling of trepidation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="alexi" changedate="20230505T142935Z" creationid="alexi" creationdate="20230505T142935Z">
-        <seg>Cuando recuerdo mi primer día en el burdel, o incluso en la misma calle GB en el barrio rojo de Delhi, me golpea una sensación, ahora extraña, de inquietud.
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T132915Z" creationid="alexi" creationdate="20230505T142935Z">
+        <seg>Cuando recuerdo mi primer día en el burdel, o incluso en la mism en el barrio rojo de Delhi, me golpea una sensación, ahora extraña, de inquietud.
 </seg>
       </tuv>
     </tu>
@@ -1691,8 +1691,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>Sirf baatein karte ho.” (now that you’ve seen our conditions, what do you think will you be able to change?</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Sirf baatein karte ho". (ahora que han visto nuestras condiciones, ¿qué creen que podrán cambiar?</seg>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T132517Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Sirf baatein karte ho". (Ahora que han visto nuestras condiciones, ¿qué creen que podrán cambiar?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2506,6 +2506,14 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T143813Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
         <seg>Cuando escuchas a Gitanjali hablar, tienes la sensación de que es muy común.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Whenever, I feel low or feel very happy, I remind myself: &lt;s0&gt;&lt;e1&gt;“Kuch aisa kar ke dikha, khud khush ho jaye khudah” (leave a mark so impactful, that even God is delighted).&lt;/e1&gt;&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T132116Z" creationid="alexi" creationdate="20230519T132116Z">
+        <seg>Cada vez que me siento mal o muy feliz, me recuerdo a mí mismo: &lt;s0&gt;&lt;e1&gt; "Kuch aisa kar ke dikha, khud khush ho jaye khudah" (deja una huella tan impactante, que hasta Dios esté encantado).&lt;/e1&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
