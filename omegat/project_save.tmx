@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-GB">
+        <seg>A client whose involvement in Sandhya’s life would sound like a bizarre plot from a Bollywood movie.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T091258Z" creationid="mange" creationdate="20230510T091258Z">
+        <seg>Un cliente cuyo involucramiento en la vida de Sandhya sonaría como una trama extraña en una película de Bollywood.</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>A few more visits inside the brothels and I learnt, even two wholesome meals were out of their reach despite having literally sold everything off themselves.</seg>
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Hace unos años, Gitanjali Babbar entró directamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>A label is so grossly sinful that her village folk vowed to behead her if she walked into the village again.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230504T162341Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
+        <seg>Una etiqueta tan groseramente inmoral que la gente de su pueblo juró decapitarla si volvía a entrar en él.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +58,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Alrededor de dieciséis personas nos reunimos en círculo durante una hora de meditación, seguida de las enérgicas historias de Gitanjali, las preguntas y respuestas abiertas y las conversaciones que surgieron durante la cena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>After this initial disciplining, mummy would tell her how she loves her, and how all this is only for her well being.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230504T162159Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
+        <seg>Después de esta disciplina inicial, mamá le decía que la quería y que todo esto era solo por su bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -167,10 +191,34 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>At NDLS railway station, he instructed the girls to sit on a bench at the platform while he took care of some business.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143014Z" creationid="mange" creationdate="20230505T143014Z">
+        <seg>En la estación de tren NDLS, les dijo a las chicas que se sentaran en un banco en el andén  mientras se ocupaba de unos asuntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Awestruck at finding herself in such a situation, she picked one of the buildings, and she plans to renovate it into a hostel with her Kat-Katha family by next spring.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T131536Z" creationid="marsanchez" creationdate="20230519T131536Z">
         <seg>Asombrada por encontrarse en semejante situación, eligió uno de los edificios, y planea renovarlo para convertirlo en un albergue junto a su familia Kat-Katha para la próxima primavera..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Betrayed by her relatives, she kept trying to secretly contact her brother only to eventually hear him say that everyone back home had come to know that she had become a sex worker.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160506Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
+        <seg>Traicionada por sus parientes, trató de ponerse en contacto con su hermano en secreto para oírle decir que todo el mundo en casa se había enterado de que se había convertido en trabajadora sexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Both Sandhya and Sanjay fell helplessly into the deep pit of forced sex work and its consequences.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Tanto Sandhya como Sanjay cayeron impotentes en el profundo pozo del trabajo sexual forzado y sus consecuencias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -223,6 +271,22 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>During the 2020 COVID lockdown, however, operations at Maitri Meals came to a halt but this still did not dampen Sandhya’s spirits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sin embargo, durante el cierre de COVID en 2020, las actividades de Maitri Meals se paralizaron, pero esto no mermó el ánimo de Sandhya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>During the lockdown the need for employment was high and the women wanted to learn new skills as the uncertainties of sex work as a business came to the forefront.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Durante el cierre, la necesidad de empleo era alta y las mujeres querían aprender nuevas habilidades, ya que las incertidumbres del trabajo sexual como negocio pasaban a primer plano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>For her, these conversations felt forced and mechanical.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -239,6 +303,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>From the corner of her eyes, Sandhya could see the man talking to some woman at the platform and pointing out to the girls.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143034Z" creationid="mange" creationdate="20230505T143034Z">
+        <seg>Por el rabillo del ojo, Sandhya podía ver al hombre hablar con algunas mujeres en el andén y señalando a las chicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Gitanjali was silent.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -251,6 +323,54 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       </tuv>
       <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T131452Z" creationid="marsanchez" creationdate="20230519T131452Z">
         <seg> Él le informó de que debía tener un albergue para los niños de los burdeles (a lo que, por supuesto, ella accedió :)), y la invitó a elegir cualquiera de los edificios del ashram en desuso para convertirlo en ese albergue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He saw her as a human being and slowly the bond between the two grew to a point where both of them couldn’t live without each other.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T091621Z" creationid="mange" creationdate="20230510T091621Z">
+        <seg>Le veía como a un ser humano y lentamente el vínculo entre los dos creció hasta el punto donde ninguno de los dos podía vivir sin el otro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>He would smuggle in food for her, would listen to her, would fight for her.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T091523Z" creationid="mange" creationdate="20230510T091523Z">
+        <seg>Él le llevaba comida a escondidas, le escuchaba, luchaba por ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Her heart however still lies in her passion for cooking.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sin embargo, su pasión sigue siendo la cocina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Her owner caught them several times and each time Sandhya would receive a beating and Sanjay would be threatened by the pimps.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T092151Z" creationid="mange" creationdate="20230510T091823Z">
+        <seg>Su propierario les pilló varias veces y cada una de esas veces Sandhya recibía una paliza y Sanjay era amenazad por los proxenetas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Her playful chiding is a testimony to the deep relationship she’s established with everyone in the team, and a reminder to this world that no matter how broken, all hearts can learn to love.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sus juguetonas reprimendas son un testimonio de la profunda relación que ha establecido con todos los miembros del equipo, y un recordatorio para este mundo de que, por muy rotos que estén, todos los corazones pueden aprender a amar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Her production tripled over time and she grew into a tailor slowly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Su producción se triplicó con el tiempo y poco a poco se convirtió en sastre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -275,6 +395,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>¿De qué otra forma se podría definir el infierno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>How she kicked and screamed and bit the woman trying to prepare her for that first night until slowly realising she has no way out.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160506Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
+        <seg>Cómo pataleó y gritó y mordió a la mujer que intentaba prepararla para esa primera noche hasta que poco a poco se dio cuenta de que no tenía escapatoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +538,55 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>If anything, her zeal of carving a niche for herself is stronger than ever before.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>En todo caso, su afán por hacerse un hueco es más fuerte que nunca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>If she was caught eating from another woman’s plate, she would be thrashed with a belt.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143249Z" creationid="mange" creationdate="20230505T143249Z">
+        <seg>Si le pillaban comiendo del plato de otra mujer, le azotarían con un cinturón.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>In Maitri Meals, Sandhya also received professional training in various kinds of cooking be it vegan cooking, farm to table cooking, bulk order catering etc.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>En Maitri Meals, Sandhya también recibió formación profesional en diversos tipos de cocina, como cocina vegana, cocina de la granja a la mesa, catering a granel, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>In a few years, Sandhya attended a client who would turn her life around.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T091145Z" creationid="mange" creationdate="20230510T091145Z">
+        <seg>Pocos años después, Sandhya atendió a un cliente que cambiaría su vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>In a team of another 5 women from similar backgrounds, Sandhya felt at home and could finally openly share her story with women who would understand and empathise with her.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>En un equipo de otras 5 mujeres de orígenes similares, Sandhya se sintió como en casa y finalmente pudo compartir abiertamente su historia con mujeres que la entenderían y empatizarían con ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It was an uphill journey as she had held the Silai machine in her hands for the first time and dealt with the many frustrations of learning a new skill.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Fue un viaje cuesta arriba, ya que tuvo la máquina Silai en sus manos por primera vez y tuvo que lidiar con las muchas frustraciones que supone aprender una nueva habilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>It was not only through the day but also at night, they lived a compromised life.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230510T092110Z" creationid="alexi" creationdate="20230510T092057Z">
@@ -430,6 +607,14 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>El sábado pasado tuvimos el privilegio de organizar un círculo de intercambio con Gitanjali y conocer más de cerca sus experiencias y puntos de vista al adentrarse directamente en el corazón de un barrio del que la mayoría se aleja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Maitri Meals is Kat-Katha’s alternative livelihood project wherein women are trained in various culinary skills and are employed as chefs to serve food with love.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Maitri Meals es el proyecto de medios de vida alternativos de Kat-Katha en el que las mujeres reciben formación en diversas habilidades culinarias y son empleadas como chefs para servir comida con amor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -509,10 +694,26 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Only after 20 years of being in the trade can Sandhya now look back at the incident and join the dots.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143113Z" creationid="mange" creationdate="20230505T143113Z">
+        <seg>Solo 20 años después de estar en el comercio Sandhya puede ahora recordar el incidente y unir los puntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Only two of them could read.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Sólo dos de ellas sabían leer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Only very recently Sandhya’s family life took a turn when her husband chose to betray her for another woman.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Hace muy poco, la vida familiar de Sandhya dio un vuelco cuando su marido decidió traicionarla por otra mujer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -581,6 +782,166 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sandhya and Sanjay had confessed their love to each other several times before, but watching Sanjay risk everything to rescue her from the brothel made everything feel too real and yet too distant from reality.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T092355Z" creationid="mange" creationdate="20230510T092355Z">
+        <seg>Sandhya y Sanjay habían confesado su amor el uno al otro varias veces antes, pero ver a Sanjay arriesgarlo todo para salvarla del burdel hizo que todo se sintiera muy real y aún así muy lejos de la realidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya and Sanjay started a new life together but it wasn’t devoid of its ups and downs.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya y Sanjay empezaron una nueva vida juntos, pero no exenta de altibajos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya believes in a new tomorrow and lives to make it happen today.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya cree en un nuevo mañana y vive para hacerlo realidad hoy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya finally met her future husband, Sanjay.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T091319Z" creationid="mange" creationdate="20230510T091319Z">
+        <seg>Sandhya finalmente conoció a su futuro marido, Sanjay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya grew so strong and determined as an individual that through Maitri Meals’ support, she slowly gave up sex work again.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya se hizo tan fuerte y decidida como persona que, gracias al apoyo de Maitri Meals, fue abandonando poco a poco el trabajo sexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya is taking literacy classes from Kat-Katha during this lockdown, and is making sure that her daughter regularly attends online classes too.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya está recibiendo clases de alfabetización de Kat-Katha durante este cierre y se asegura de que su hija también asista regularmente a clases en línea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya joined HeARTshala and slowly tried to learn to stitch.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya se unió a HeARTshala y poco a poco intentó aprender a coser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya joined the project in 2018-19 and regained hope.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya se unió al proyecto en 2018-19 y recuperó la esperanza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya now lives on her own terms and proudly says “koi tension nahi” with a big bright smile whenever any challenges come her way.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya vive ahora a su aire y dice orgullosa "koi tension nahi" con una gran sonrisa cada vez que se le presenta un reto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya put her daughter in a hostel nearby and prepared herself to earn more to sustain the family.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya metió a su hija en un albergue cercano y se preparó para ganar más y mantener a la familia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya worked with Maitri Meals and grew both internally and professionally.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya trabajó con Maitri Meals y creció tanto interna como profesionalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sandhya would earn from a customer-to-customer basis and have walked out of the brothel without any money in hand.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sandhya ganaba de cliente en cliente y llegó a salir del burdel sin dinero en la mano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sanjay came once, came twice, came every week and slowly every day just to see Sandhya.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T091419Z" creationid="mange" creationdate="20230510T091419Z">
+        <seg>Sanjay fue una vez, fue dos veces, fue cada semana y gradualmente todos los días solo para ver a Sandhya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sanjay immediately went and bought new clothes for Sandhya and took her away and married her in a temple nearby, under the supervision of the policemen.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sanjay fue inmediatamente a comprar ropa nueva para Sandhya, se la llevó y se casó con ella en un templo cercano, bajo la supervisión de los policías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sanjay was a daily wage earner and had little to no savings.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Sanjay trabajaba como jornalero y apenas tenía ahorros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sanjay, one day, came to the brothel room with two policemen along and a knife in one hand.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T092126Z" creationid="mange" creationdate="20230510T092126Z">
+        <seg>Sanjay, un día, llegó a la habitación del burdel junto con dos polícias y un cuchillo en la mano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sanjay’s family accepted Sandhya with a lot of love and respect.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>La familia de Sanjay aceptó a Sandhya con mucho amor y respeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sex trade acts like a vicious trap where all vulnerabilities are capitalised on, and the brothel owner took this opportunity to capitalise on Sandhya’s desperate condition to push her into further abuse and exerted her body beyond limits.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>El comercio sexual actúa como una trampa viciosa en la que se aprovechan todas las vulnerabilidades, y la dueña del burdel aprovechó esta oportunidad para sacar partido de la desesperada condición de Sandhya para empujarla a nuevos abusos y ejerció su cuerpo más allá de los límites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Shattered as she was on having lost her partner of many years, Sandhya finds courage in her daughter and her friendships with all the other didis accompanying her on this journey.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Destrozada como estaba por haber perdido a su compañero de muchos años, Sandhya encuentra valor en su hija y en su amistad con todos los demás didis que la acompañan en este viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She continued receiving training stipend and rent allowance so that the uncertainty and the struggle of learning don’t push her to depend on sex work for sustenance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Siguió recibiendo un estipendio de formación y un subsidio de alquiler para que la incertidumbre y la lucha por aprender no la empujaran a depender del trabajo sexual para subsistir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>She did not only enjoy the first day, but became a friend for the ladies, and took them out to McDonald’s in Connaught Place.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -597,6 +958,22 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>She discovered her passion for south Indian cooking as it would remind her of the good old days of sitting by the chulha next to her mother as she would serve hot dosas to her and her brother.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Descubrió su pasión por la cocina del sur de la India, que le recordaba los viejos tiempos en los que se sentaba junto a su madre en la chulha y les servía dosas calientes a ella y a su hermano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She even fought to get her daughter back from the hostel, and through Kat-Katha’s support won the court case against the hostel, proving herself to be a caring mother irrespective of the social or moral taboo around her identity.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Incluso luchó para que le devolvieran a su hija del albergue y, con el apoyo de Kat-Katha, ganó el juicio contra el albergue, demostrando ser una madre solidaria independientemente del tabú social o moral que rodea su identidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>She had never been studious.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -605,10 +982,50 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>She is slowly inching her way closer to her dream of opening a South Indian Restaurant someday and naming it after her mother.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Poco a poco se acerca a su sueño de abrir algún día un restaurante en el sur de la India y ponerle el nombre de su madre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She is striving to find a safe hostel where her daughter can enrol to become a police officer when she grows up.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Se esfuerza por encontrar un albergue seguro donde su hija pueda matricularse para ser policía cuando crezca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She lovingly scolds the teaching volunteers into giving her and her daughter more homework that they can do together and repeatedly keeps pushing the entire Kat-Katha team to find a good hostel for her daughter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Regaña cariñosamente a los voluntarios docentes para que les den a ella y a su hija más deberes que puedan hacer juntas y sigue presionando repetidamente a todo el equipo de Kat-Katha para que encuentre un buen albergue para su hija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>She quite literally knocked on the brothel doors, walked up the narrow staircases, and talked to the people there-- sipped tea with the brothel owners, listened, laughed, and came to know the women as her sisters, their children as her family.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Literalmente, llamó a las puertas de los burdeles, subió las estrechas escaleras y habló con la gente: tomó té con los dueños, escuchó, rió y llegó a conocer a las mujeres como a sus hermanas y a sus hijos como a su familia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She remembers that first night clearly.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143212Z" creationid="mange" creationdate="20230505T143212Z">
+        <seg>Recuerda esa primera noche claramente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She remembers that skimpy noodle strap blouse and those tight denim shorts she was made to wear, she remembers that loud make-up she was forced to do.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230504T161930Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
+        <seg>Recuerda esa blusa corta de tirantes finos y esos pantalones cortos vaqueros ajustados que le obligaron a llevar, recuerda ese maquillaje estridente que le obligaron a hacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -637,10 +1054,35 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>She was instructed loud and clear that she wouldn’t get any food until she had earned it.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143237Z" creationid="mange" creationdate="20230505T143237Z">
+        <seg>
+Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>She was taught to call her brothel owner “mummy”, a habit that she is still prey to even today.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160506Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
+        <seg>Le enseñaron a llamar "mami" a la dueña del burdel, un hábito del que sigue siendo presa incluso hoy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sirf baatein karte ho.” (now that you’ve seen our conditions, what do you think will you be able to change?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Sirf baatein karte ho". (ahora que han visto nuestras condiciones, ¿qué creen que podrán cambiar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Slowly, as the obstacles grew, so did their strength and passion for love.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T091953Z" creationid="mange" creationdate="20230510T091953Z">
+        <seg>Poco a poco, a medida que los obstáculos crecían, también lo hacían su fuerza y pasión por amor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -661,10 +1103,75 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Soon Sandhya also realised that a cousin sister from her village was already a brothel manager at Gb Road and played a part in her trafficking.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160506Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
+        <seg>Pronto Sandhya también se dio cuenta de que una prima hermana de su pueblo ya era gerente de un burdel en Gb Road y participaba en su trata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Soon enough, the woman walked up to Sandhya and the others and asked them to come along with her.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143046Z" creationid="mange" creationdate="20230505T143046Z">
+        <seg>Poco después, la mujer se acercó a Sandhya y las otras y les pidió que le acompañaran.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Such was their routine.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230510T092928Z" creationid="alexi" creationdate="20230510T092928Z">
         <seg>Esa era su rutina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>That’s the superpower of Sandhya.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Ese es el superpoder de Sandhya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>That’s when Kat-Katha entered Sandhya’s life and her life changed yet again.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Fue entonces cuando Kat-Katha entró en la vida de Sandhya y su vida volvió a cambiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The brothel owner demeaned their relationship, to a point where she asked Sandhya to strip out of the clothes she earned through sex work if she wanted to leave, but they both held on to their pride.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230519T132229Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>La dueña del burdel degradó su relación, hasta el punto de pedir a Sandhya que se deshiciera de la ropa que había ganado con el trabajo sexual si quería marcharse, pero ambos se aferraron a su orgullo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The brothel owner was stunned, and so was Sandhya.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T092234Z" creationid="mange" creationdate="20230510T092145Z">
+        <seg>El propietario del burdel estaba atónito al igual que Sandhya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The hostel authorities would not let Sandhya meet her daughter and would consider her unfit and even a threat as a mother.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Las autoridades del albergue no dejaban que Sandhya se reuniera con su hija y la consideraban incapaz e incluso una amenaza como madre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The man had sold Sandhya to a brothel owner at GB Road.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143125Z" creationid="mange" creationdate="20230505T143125Z">
+        <seg>El hombre había vendido a Sandhya al propietario de un burdel en GB Road.
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +1209,14 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The woman was none other than her captor, her owner at this new life inside the brothel.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143146Z" creationid="mange" creationdate="20230505T143146Z">
+        <seg>La mujer no era otra más que su captora, su propietaria en esta nueva vida dentro del burdel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>The women got used to her presence, and came to look forward to their conversations.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -726,6 +1241,14 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>These dreams are what’s making her look forward to another day.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Estos sueños son los que la hacen esperar un día más.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>These small capsules for a room only had enough space for them to lie down, surrounded by their belongings, with no ventilation, let alone air to breathe.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230510T091841Z" creationid="alexi" creationdate="20230510T091841Z">
@@ -738,6 +1261,14 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230505T144609Z" creationid="alexi" creationdate="20230505T144609Z">
         <seg>También se llamaban "salas de encuentro".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They both took a small room on rent nearby and started their own small family together, Soon Sandhya was pregnant and gave birth to a baby girl.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Ambos alquilaron una pequeña habitación cerca de allí y empezaron a formar su propia familia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +1313,22 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>They named her Meera.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>La llamaron Meera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>They protested, asked about where the man was, where she was taking them and all sorts of other questions but she wouldn’t listen and threatened to beat them if they just didn’t follow her.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143055Z" creationid="mange" creationdate="20230505T143055Z">
+        <seg>Ellas protestaron, preguntaron donde estaba el hombre, donde iba a llevarles y todo tipo de preguntas pero ella no les escuchaba y amenazó con pegarles si no le seguían.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>They were housed in dingy rooms – boxes carved by dividing a single room into multiple smaller ones.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230510T091637Z" creationid="alexi" creationdate="20230510T091637Z">
@@ -806,10 +1353,26 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>This continued for a few years, Sandhya became well versed in the trade and learnt to find happiness in this strange sense of normalcy where abuse and violence were everyday occurrences.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230504T162300Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
+        <seg>Esto continuó durante unos años, Sandhya se familiarizó con el oficio y aprendió a encontrar la felicidad en esta extraña sensación de normalidad en la que el maltrato y la violencia eran fenómenos cotidianos. - ¶ ---------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>This was our opportunity to prove it to other women how we were here to stay and genuinely help out.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Era nuestra oportunidad de demostrar a las demás mujeres que estábamos aquí para quedarnos y ayudar de verdad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Though Sanjay was the one who rescued her from the brothel, promised her a new life and sparked hope in her, it was Sandhya all along who fueled this hope and she is determined to not let Sanjya’s violent disloyalty stop her from continuing to work towards a better future for her and her daughter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Aunque Sanjay fue quien la rescató del burdel, le prometió una nueva vida y despertó en ella la esperanza, fue Sandhya quien la alimentó desde el principio y está decidida a no dejar que la violenta deslealtad de Sanjya le impida seguir trabajando por un futuro mejor para ella y su hija.</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,6 +1397,31 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       </tuv>
       <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T131248Z" creationid="marsanchez" creationdate="20230519T131248Z">
         <seg>Por otra secuencia espontánea de acontecimientos, se encontró hablando con un funcionario del Gandhi Ashram en Delhi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>To sustain the family and their daughter, when they reach out to her former employer – her brothel owner, she lured her into sex work again.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Para mantener a la familia y a su hija, cuando se pusieron en contacto con su antigua empleadora, la dueña del burdel, ésta la atrajo de nuevo al trabajo sexual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Try to Become a Volunteer, This Can Solve Many Problems</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230505T143159Z" creationid="mange" creationdate="20230505T143159Z">
+        <seg>
+Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Trying times tested the couples’ grit when Sanjay lost his job after demonetisation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Los tiempos difíciles pusieron a prueba la valentía de la pareja cuando Sanjay perdió su trabajo tras la desmonetización.</seg>
       </tuv>
     </tu>
     <tu>
@@ -942,6 +1530,22 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>When you focus on being a blessing, God makes sure that you are always blessed in abundance.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Cuando te centras en ser una bendición, Dios se asegura de que siempre seas bendecido en abundancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>While Sandhya has lost touch with her own family back in her village, she found a home in her in-laws.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Aunque Sandhya había perdido el contacto con su propia familia en su pueblo, encontró un hogar en su familia política.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>While we waited, at around 2pm, an old man walked in with chhola bhaturas for the ladies’ breakfast.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230505T144744Z" creationid="alexi" creationdate="20230505T144744Z">
@@ -955,6 +1559,54 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>¿Por qué venía a estos burdeles?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>With Maitri Meals paused, Kat-Katha opened HeARTshala, a skill centre at GB Road itself that trained women in the skill of product tailoring.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Con Maitri Meals en pausa, Kat-Katha abrió HeARTshala, un centro de capacitación en la misma GB Road que formaba a mujeres en la confección de productos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>With castles in her mind, she wakes up in her rented one-bedroom accommodation.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Con castillos en la cabeza, se despierta en su habitación de alquiler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>With expertise and flavour in her hands, she cooks homely three meals for her daughter.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Con la experiencia y el sabor en sus manos, cocina tres comidas caseras para su hija.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>With fear in her mind but love in her heart, Sandhya made the decision to walk away from the brothel with Sanjay’s support.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230510T092617Z" creationid="mange" creationdate="20230510T092617Z">
+        <seg>Con temor en su mente pero amor en su corazón, Sandhya tomó la decisión de marcharse del burdel con el apoyo de Sanjay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>With four months of dedicated hard work and commitment, Sandhya finally emerged as an expert on various basic products produced at the centre.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Tras cuatro meses de duro trabajo y dedicación, Sandhya se convirtió finalmente en una experta en varios productos básicos elaborados en el centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>With stuttering ABCs, she learns how to weave her story.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Con un abecedario tartamudo, aprende a tejer su historia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -979,6 +1631,14 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230518T163247Z" creationid="alexi" creationdate="20230518T163247Z">
         <seg>en-G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>‘Mummy’ would beat her up if she spoke to a customer, mummy would beat her up if her make-up wasn’t right, mummy would beat her up if she ate more than once a day.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230504T162120Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
+        <seg>"Mami" le pegaba si hablaba con un cliente, mami le pegaba si su maquillaje no era correcto, mami le pegaba si comía más de una vez al día.</seg>
       </tuv>
     </tu>
     <tu>
