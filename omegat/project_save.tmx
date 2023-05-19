@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -241,16 +241,16 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>And, they will not only be accepted outside the G.B.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Y no sólo serán aceptadas fuera de G.B.</seg>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T134402Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Y no sólo serán aceptadas fuera un barrio rojo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>And, we met Radha who was willing to come down to the G. B. Road and teach.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Y conocimos a Radha, que estaba dispuesta a venir a G. B. Road a enseñar.</seg>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T133734Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Y conocimos a Radha, que estaba dispuesta a venir al barrio rojo para enseñarles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1177,8 +1177,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>My team also grew in number and I was joined by another volunteer from the Yuva Parivahan.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Mi equipo también creció en número y se me unió otro voluntario del Yuva Parivahan.</seg>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T133602Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Mi equipo también creció en número y se unió a nosotros otro voluntario del Yuva Parivahan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,8 +1282,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Our presence and experiments have been growing since, and we continue to run out stitching classes, bridge school and other training programmes for the Didis and their children.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Nuestra presencia y nuestros experimentos no han dejado de crecer desde entonces, y seguimos impartiendo clases de costura, escuela de bridge y otros programas de formación para las Didis y sus hijos.</seg>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T134124Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Nuestra presencia y nuestros experimentos no han dejado de crecer desde entonces, y seguimos impartiendo clases de costura, preparación escolar y otros programas de formación para las Didis y sus hijos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,8 +1354,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Road, but also receive support and respect.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Road, sino que también recibirán apoyo y respeto.</seg>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T134440Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>sino que también recibirán apoyo y respeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,8 +1666,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>She was a corporate employee then.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Por aquel entonces era empleada de una empresa.</seg>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T133752Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Por aquel entonces ella era empleada de una empresa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2368,8 +2368,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>We thus reached out through Facebook, and began looking for volunteers to teach.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Así que nos pusimos en contacto con ellas a través de Facebook y empezamos a buscar voluntarios para enseñarles.</seg>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T133707Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Así que empezamos a buscar voluntarios para enseñarles a través de Facebook.</seg>
       </tuv>
     </tu>
     <tu>
