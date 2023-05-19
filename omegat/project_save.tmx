@@ -719,6 +719,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Eventually, she quit her job, and would spend entire days there.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T140520Z" creationid="alexi" creationdate="20230519T140520Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Eventually, volunteers began asking, “We're doing so many things.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160157Z" creationid="OmegaT Aligner" creationdate="20230504T160157Z">
@@ -852,6 +860,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
         <seg>Gitanjali se quedó en silencio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Gitanjali's heart stopped.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T140629Z" creationid="alexi" creationdate="20230519T140629Z">
+        <seg>A Gitanjali se le paró el corazón.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3771,6 +3787,14 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
         <seg>"Sí, sí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“You come here all the time, why don't you teach me something?”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T140606Z" creationid="alexi" creationdate="20230519T140606Z">
+        <seg>"Siempre vienes aquí, ¿por qué no me enseñas algo?"</seg>
       </tuv>
     </tu>
     <tu>
