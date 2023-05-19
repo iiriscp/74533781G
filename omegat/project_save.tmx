@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -90,6 +90,14 @@
       </tuv>
       <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T133025Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
         <seg>Después de que Gitanjali y los voluntarios hablaran un poco con ella y le dieran algunas explicaciones, siguió sin ceder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>After getting off work, she and a couple friends would simply spend their evenings talking with the women and learning their stories-- where they came from and how their lives brought them to G.B.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T135727Z" creationid="alexi" creationdate="20230519T135630Z">
+        <seg>Al salir del trabajo, ella y un par de amigas se pasaban las tardes hablando con las mujeres y conociendo sus historias: de dónde venían y cómo sus vidas las habían llevado hasta esa calle</seg>
       </tuv>
     </tu>
     <tu>
@@ -912,6 +920,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Her curiosity stirred.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T135449Z" creationid="alexi" creationdate="20230519T135449Z">
+        <seg>Se despertó su curiosidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Her heart however still lies in her passion for cooking.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
@@ -1197,6 +1213,14 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230510T093005Z" creationid="alexi" creationdate="20230510T093005Z">
         <seg>Quería hablar más, quería escuchar todo lo que tenían por decir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>I was just sitting and observing, looking at what was happening right in front of my eyes.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T135431Z" creationid="alexi" creationdate="20230519T135431Z">
+        <seg>Sólo estaba sentada y observando, mirando lo que ocurría delante de mis ojos".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,8 +1802,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Road.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Road.</seg>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T135739Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>del barrio rojo de Delhi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2917,6 +2941,14 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Unexpected Beginnings</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T135035Z" creationid="alexi" creationdate="20230519T135035Z">
+        <seg>Comienzos inesperados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Unwavering Dedication</seg>
       </tuv>
       <tuv lang="es-ES" changeid="Sara" changedate="20230505T143124Z" creationid="Sara" creationdate="20230505T143124Z">
@@ -3199,6 +3231,14 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>While working for a health organization, Gitanjali was instructed to survey the brothel women on topics related to contraceptives and family planning.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T135252Z" creationid="alexi" creationdate="20230519T135252Z">
+        <seg>Mientras trabajaba para una organización sanitaria, Gitanjali recibió instrucciones de encuestar a las mujeres de los burdeles sobre temas relacionados con los anticonceptivos y la planificación familiar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Why was she coming to these brothels?</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -3435,6 +3475,14 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       </tuv>
       <tuv lang="es-ES" changeid="marsanchez" changedate="20230505T142934Z" creationid="marsanchez" creationdate="20230505T142934Z">
         <seg>“En realidad, solo estábamos estudiando juntos", se rio Gitanjali. "Solo estaba compensando todas las lecciones que no aprendí en el colegio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>“And in every brothel, I found some person or another who was waiting to love you.”</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="alexi" changedate="20230519T135606Z" creationid="alexi" creationdate="20230519T135606Z">
+        <seg>“Y en todos los burdeles encontré a alguna que otra persona que estaba esperando para dar todo su amor”.</seg>
       </tuv>
     </tu>
     <tu>
