@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -401,8 +401,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>As she recounts these stories, she mentions, “We call Kat-Katha a magic.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Mientras relata estas historias, menciona: "Llamamos Kat-Katha a la magia.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135846Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Mientras relata estas historias, menciona: "Llamamos magia a Kat-Katha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,8 +2670,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>They actually painted the police station, and filled it with candles and holiday decorations.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>De hecho, pintaron la comisaría y la llenaron de velas y adornos navideños.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135817Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>De hecho, pintaron la comisaría y la llenaron de velas y adornos festivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,8 +2710,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>They had agreed to be outside, patrolling the premises, but they ended up enjoying some of the festivities themselves.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Habían acordado estar fuera, patrullando el recinto, pero acabaron disfrutando ellos mismos de algunos de los festejos.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135708Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Habían acordado estar fuera, patrullando el recinto, pero acabaron disfrutando de algunos de los festejos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3088,8 +3088,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>We've had volunteers from Google visit, and they have huge bodyguards with them.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Nos han visitado voluntarios de Google y llevan guardaespaldas enormes.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T140016Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Nos han visitado voluntarios de Google con guardaespaldas enormes.</seg>
       </tuv>
     </tu>
     <tu>
