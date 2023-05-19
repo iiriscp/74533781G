@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>&lt;s0&gt;Sonu and the two other boys from Kat-Katha formed a dance group named “The Mystical Movers” in 2017 with a vision to make GB Road a street of love through dance and encourage more children to take up dance to transform their lives.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T140345Z" creationid="Sara" creationdate="20230519T140345Z">
+        <seg>&lt;s0&gt;Sonu y los otros dos chicos de Kat-Katha formaron un grupo de danza llamado "The Mystical Movers" en 2017 con la visión de hacer de el barrio rojo una calle llena de amor mediante la danza y animar a más niños a iniciarse en la danza para transformar sus vidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>A client whose involvement in Sandhya’s life would sound like a bizarre plot from a Bollywood movie.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mange" changedate="20230510T091258Z" creationid="mange" creationdate="20230510T091258Z">
@@ -625,8 +633,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>Dancing supported sonu as a healing practice to overcome challenges and fears he had deep within.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>El baile ayudó a Sonu como práctica curativa para superar los retos y miedos que tenía en su interior.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T135706Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>El baile, que era como práctica curativa para Sonu, le ayudó a superar sus retos y miedos interiores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,8 +866,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>He also performed at various events and Kat-Katha looked at his special desire to learn professional dance.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>También actuó en varios eventos y Kat-Katha se fijó en su deseo especial de aprender danza profesional.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T135527Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>También actuó en varios eventos y Kat-Katha se fijó en su deseo especial por aprender danza de forma profesional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,8 +906,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>He practiced day and night at Kat-Katha School while managing his studies.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Practicaba día y noche en la escuela Kat-Katha mientras gestionaba sus estudios.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T135745Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Practicaba día y noche en la escuela de Kat-Katha mientras lo compaginaba sus estudios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1495,8 +1503,16 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
       <tuv lang="en-GB">
         <seg>Kat-Katha enrolled him in Hope School for academics and focused on his holistic growth.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Kat-Katha lo matriculó en la Hope School para que estudiara y se centró en su crecimiento holístico.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T135829Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Kat-Katha lo matriculó en la Hope School para que estudiara y se centrara en su crecimiento holístico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Kat-Katha’s intervention programs supported Sonu’s dreams and empowered him to acheive &lt;/s0&gt;&lt;s1&gt;the same. &lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T140415Z" creationid="Sara" creationdate="20230519T140415Z">
+        <seg>Los programas de intervención de Kat-Katha apoyaron los sueños de Sonu y lo empoderaron para alcanzarlos. &lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2460,8 +2476,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>The dance group “The Mystical Movers” got selected for Ashoka Youth Venture &amp; Fellowship Program for their project in 2018.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>El grupo de danza "The Mystical Movers" fue seleccionado para Ashoka Youth Venture &amp; Fellowship Program por su proyecto en 2018.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T140535Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>El grupo de danza "The Mystical Movers" fue seleccionado para la Ashoka Youth Venture &amp; Fellowship Program para su proyecto en 2018.</seg>
       </tuv>
     </tu>
     <tu>
