@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -497,8 +497,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>But after your event, whatever was written on the wall before this, you must put it back,” he said sternly.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Pero después de su evento, todo lo que estaba escrito en la pared antes de esto, debe ponerlo de nuevo", dijo con severidad.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T135114Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Pero después del evento, lo que sea que estaba escrito en la pared antes de esto, debéis ponerlo de nuevo", dijo con severidad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,8 +810,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>Gitanjali noticed the head police officer (who had originally refused permission to block the roads) standing there and watching them.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Gitanjali se dio cuenta de que el jefe de policía (que en un principio había denegado el permiso para bloquear las carreteras) estaba allí de pie y los observaba.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T134955Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Gitanjali se dio cuenta de que el jefe de policía (que en un principio había denegado el permiso para bloquear las carreteras) estaba allí de pie observándolos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1938,8 +1938,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Several volunteers had just painted murals in Delhi, and so they began painting a mural on G.B.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Varios voluntarios acababan de pintar murales en Delhi, así que empezaron a pintar un mural en G.B.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T134932Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Varios voluntarios acababan de pintar murales en Delhi, así que empezaron a pintar un mural en el barrio rojo.</seg>
       </tuv>
     </tu>
     <tu>
