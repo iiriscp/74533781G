@@ -377,8 +377,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>Arjun, who affectionately calls the sex workers as “Didi”, slowly and steadily gained a deeper acquaintance of their problems.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Arjun, que llama cariñosamente "Didi" a las trabajadoras del sexo, fue conociendo poco a poco sus problemas.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T141259Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Arjun, que llama cariñosamente "Didi" a las trabajadoras sexuales, fue conociendo poco a poco sus problemas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,8 +922,8 @@ Y, después de unos cuantos escalones más altos y poco iluminados por los que d
       <tuv lang="en-GB">
         <seg>He managed to solve the most basic yet the most important of those problems such as getting Adhar and Ration cards issued for them and making them aware of their rights as citizens of a democratic nation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Consiguió resolver los problemas más básicos, pero también los más importantes, como conseguir que les expidieran las tarjetas Adhar y Ration y concienciarlas de sus derechos como ciudadanas de una nación democrática.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T141314Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Consiguió resolver los problemas más sencillos, pero también los más importantes, como conseguir que les expidieran las tarjetas Adhar y Ration y concienciarlas de sus derechos como ciudadanas de una nación democrática.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1433,6 +1433,14 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
         <seg>Fue un viaje cuesta arriba, ya que tuvo la máquina Silai en sus manos por primera vez y tuvo que lidiar con las muchas frustraciones que supone aprender una nueva habilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It was during that volunteering experience in Kat-Katha that he came to know about the UfnManifesto campaign.  It is a nationwide campaign initiated by CYC-PRAVAH and supported by UNFPA in the year 2014 and run for a period of 3 months in 2015.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T141348Z" creationid="Sara" creationdate="20230519T141348Z">
+        <seg>Se trata de una campaña nacional iniciada por CYC-PRAVAH y apoyada por UNFPA en el año 2014 y que se desarrolló durante un periodo de 3 meses en 2015.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,6 +2510,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="mange" changedate="20230510T092234Z" creationid="mange" creationdate="20230510T092145Z">
         <seg>El propietario del burdel estaba atónito al igual que Sandhya.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The campaign provided the appropriate opportunities to Arjun for his work and helped him move a step forward to become the voice of the scarred women in GB road&lt;s0&gt;.&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;He started off with a project called&lt;s2&gt; &lt;/s2&gt;&lt;s3&gt;&lt;e4&gt;“Chai par charcha”&lt;s5&gt; &lt;/s5&gt;&lt;/e4&gt;&lt;/s3&gt;where he was accompanied by other volunteers and young students.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230519T141753Z" creationid="Sara" creationdate="20230519T141753Z">
+        <seg>La campaña le proporcionó a Arjun las oportunidades adecuadas para realizar su trabajo y le ayudó a dar un paso adelante para convertirse en la voz de las mujeres con cicatrices en el barrio rojo. &lt;s0&gt;.&lt;s1&gt; &lt;/s1&gt;&lt;/s0&gt;Empezó por un proyecto llamado&lt;s2&gt; &lt;/s2&gt;&lt;s3&gt;&lt;e4&gt;“Chai par charcha”&lt;s5&gt; &lt;/s5&gt;&lt;/e4&gt;&lt;/s3&gt;en el que le acompañaban otros voluntarios y jóvenes estudiantes.</seg>
       </tuv>
     </tu>
     <tu>
