@@ -88,8 +88,8 @@
       <tuv lang="en-GB">
         <seg>About sixteen of us circled up for an hour of meditation, followed by Gitanjali's spirited stories, open-hearted Q&amp;A, and emergent conversations over dinner.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Alrededor de dieciséis personas nos reunimos en círculo durante una hora de meditación, seguida de las enérgicas historias de Gitanjali, las preguntas y respuestas abiertas y las conversaciones que surgieron durante la cena.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T061216Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Alrededor de dieciséis personas nos reunimos en círculo durante una hora para meditar, seguida de las enérgicas historias de Gitanjali, las preguntas y respuestas abiertas y las conversaciones que surgieron durante la cena.</seg>
       </tuv>
     </tu>
     <tu>
@@ -667,6 +667,14 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       </tuv>
       <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T130847Z" creationid="marsanchez" creationdate="20230519T130847Z">
         <seg>Las hijas de las mujeres de los burdeles, de apenas once o doce años, suelen ser vendidas para ejercer la prostitución, y los niños crecen allí impregnados de las influencias de un barrio plagado de drogas y alcohol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Delhi's G.B.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T060914Z" creationid="Sara" creationdate="20230531T060914Z">
+        <seg>El barrio rojo de Delhi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,8 +2242,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>She quite literally knocked on the brothel doors, walked up the narrow staircases, and talked to the people there-- sipped tea with the brothel owners, listened, laughed, and came to know the women as her sisters, their children as her family.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="mange" changedate="20230531T022703Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Literalmente, llamó a las puertas de los burdeles, subió las estrechas escaleras y habló con la gente: tomó té con los dueños, escuchó, rio y llegó a conocer a las mujeres como a sus hermanas y a sus hijos como a su familia.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T061033Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Literalmente, llamó a las puertas de los burdeles, subió las estrechas escaleras y habló con la gente que había allí: tomó té con los dueños, escuchó, rio y llegó a conocer a las mujeres como a sus hermanas y a sus hijos como a su familia.</seg>
       </tuv>
     </tu>
     <tu>
