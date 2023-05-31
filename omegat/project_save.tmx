@@ -208,8 +208,8 @@
       <tuv lang="en-GB">
         <seg>And not just anyone can walk onto G.B.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Sara" changedate="20230505T143237Z" creationid="Sara" creationdate="20230505T143237Z">
-        <seg>Y no cualquiera puede entrar en la calle GB del barrio rojo.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T091608Z" creationid="Sara" creationdate="20230505T143237Z">
+        <seg>Y no cualquiera puede entrar en el barrio rojo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1381,8 +1381,8 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
       <tuv lang="en-GB">
         <seg>If a woman has a baby, the baby is often taken away from her—kept on a separate part of G.B.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T081328Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
-        <seg>Si una mujer tiene un bebé, a menudo se lo quitan, se lo quedan en una parte separada de G.B.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T091829Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
+        <seg>Si una mujer tiene un bebé, a menudo se lo quitan, se lo guardan en una parte separada del barrio rojo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,8 +1858,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Prison-like cells that contain countless girls, kidnapped and trafficked to live out the prime of their adult lives in prostitution.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T080843Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
-        <seg>Celdas parecidas a prisiones que encierran a innumerables niñas, secuestradas y traficadas para vivir la flor de su vida adulta en la prostitución.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T091732Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
+        <seg>Celdas parecidas a prisiones que contienen a innumerables niñas, secuestradas y traficadas para vivir la flor de su vida adulta en la prostitución.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1882,8 +1882,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Road and see the possibility and human joy amidst such darkness and despair.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Sara" changedate="20230505T143322Z" creationid="Sara" creationdate="20230505T143322Z">
-        <seg>En Road, puedes ver la posibilidad y la alegría humana en medio de tanta oscuridad y desesperación.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T091631Z" creationid="Sara" creationdate="20230505T143322Z">
+        <seg>En el barrio rojo, puedes ver la posibilidad y la alegría humana en medio de tanta oscuridad y desesperación.</seg>
       </tuv>
     </tu>
     <tu>
