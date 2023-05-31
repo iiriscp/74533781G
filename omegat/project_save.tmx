@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -369,8 +369,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>Arjun Rathod, a regular 19 year old kid, was born in the diseased alleys of GB Road to a sex worker.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Sara" changedate="20230519T140845Z" creationid="Sara" creationdate="20230519T140845Z">
-        <seg>Arjun Rathod, un chico normal de 19 años, nació en los callejones enfermos de GB Road, hijo de una trabajadora del sexo.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T092520Z" creationid="Sara" creationdate="20230519T140845Z">
+        <seg>Arjun Rathod, un chico normal de 19 años, nació en los callejones enfermos del barrio rojo, hijo de una trabajadora del sexo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -825,8 +825,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>For his work Arjun has been appointed as the Secretary for the GB Road sex worker community and will be actively informed regarding decisions pertaining to it.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>Por su labor, Arjun ha sido nombrado secretario de la comunidad de trabajadoras del sexo de GB Road y se le informará activamente de las decisiones que le conciernan.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T092331Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>Por su labor, Arjun ha sido nombrado secretario de la comunidad de trabajadoras del sexo delbarrio rojo de Delhi y se le informará activamente de las decisiones que le conciernan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3657,8 +3657,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>– JOEL BARKER Arjun Rathod, a regular 19 year old kid, was born in the diseased alleys of GB Road to a sex worker.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230519T133003Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
-        <seg>- JOEL BARKER Arjun Rathod, un chico normal de 19 años, nació en los callejones enfermos de GB Road, hijo de una trabajadora del sexo.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T092446Z" creationid="OmegaT Aligner" creationdate="20230519T133003Z">
+        <seg>- JOEL BARKER Arjun Rathod, un chico normal de 19 años, nació en los callejones enfermos del barrio rojo de Delhi, hijo de una trabajadora del sexo.</seg>
       </tuv>
     </tu>
     <tu>
