@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -513,8 +513,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>Behind the walls are hidden compartments that only the brothel owners fully knows.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T163612Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
-        <seg>Detrás de los muros hay compartimentos ocultos que sólo los dueños de los burdeles conocen a fondo.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T135555Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
+        <seg>Detrás de los muros hay compartimentos ocultos que solo los dueños de los burdeles conocen a fondo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -585,8 +585,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>But it takes a serious blend of courage and determination, and deeper calling to really commit to this kind of work.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Sara" changedate="20230505T143200Z" creationid="Sara" creationdate="20230505T143200Z">
-        <seg>Sin embargo, conlleva una mezcla de coraje y determinación, y una llamada más profunda a compremeterse con este tipo de trabajo.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T135522Z" creationid="Sara" creationdate="20230505T143200Z">
+        <seg>Sin embargo, conlleva una mezcla de coraje y determinación, y una llamada más profunda a comprometerse con este tipo de trabajo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -817,8 +817,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>For days, Gitanjali sat by their bed, overseeing their treatment and serving them their meals.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T125450Z" creationid="Sara" creationdate="20230510T091837Z">
-        <seg>Durante varios días,Gitanjali estuvo al lado de ellas supervisando su tratamiento y sirviendoles sus comidas.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T135955Z" creationid="Sara" creationdate="20230510T091837Z">
+        <seg>Durante varios días, Gitanjali estuvo al lado de ellas supervisando su tratamiento y sirviéndoles sus comidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,8 +1834,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Only when the brothel owner feels that she is too afraid and ashamed to run back to the outside world does she have permission to spend time in the common areas.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T163612Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
-        <seg>Sólo cuando la dueña del burdel siente que está demasiado asustada y avergonzada para volver al mundo exterior, tiene permiso para pasar tiempo en las zonas comunes.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T135731Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
+        <seg>Solo cuando la dueña del burdel siente que está demasiado asustada y avergonzada para volver al mundo exterior, tiene permiso para pasar tiempo en las zonas comunes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1962,8 +1962,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Road.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="mange" changedate="20230524T163056Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>de Delhi.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T135745Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>De Delhi.</seg>
       </tuv>
     </tu>
     <tu>
