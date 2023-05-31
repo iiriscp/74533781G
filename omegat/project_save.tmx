@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1050,8 +1050,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>His brothel owner, Suman, always felt that Sonu is […]</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T092939Z" creationid="marsanchez" creationdate="20230531T092939Z">
-        <seg>Sigue tu pasión, prepárate para trabajar duro y sacrificarte y, sobre todo, no dejes que nadie limite tus sueñosLa dueña del burdel, Suman, siempre tuvo la impresión de que Sonu es […]</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T093008Z" creationid="marsanchez" creationdate="20230531T092939Z">
+        <seg>La dueña del burdel, Suman, siempre tuvo la impresión de que Sonu es […]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2534,6 +2534,14 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       </tuv>
       <tuv lang="es-ES" changeid="alexi" changedate="20230510T092928Z" creationid="alexi" creationdate="20230510T092928Z">
         <seg>Esa era su rutina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Suhail Khan (Sonu) had been living on GB Road, Delhi’s biggest red light area, with his mother in one corner of a brothel’s balcony.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T093026Z" creationid="marsanchez" creationdate="20230531T093026Z">
+        <seg> Suhail Khan (Sonu) vivía en el barrio rojo de Nueva Delhi, la mayor zona roja de Delhi, con su madre en una esquina del balcón de un burdel..</seg>
       </tuv>
     </tu>
     <tu>
