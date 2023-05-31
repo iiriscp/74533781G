@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -866,8 +866,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>GB Road now was her only family, her only safe space.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="mange" changedate="20230519T142148Z" creationid="mange" creationdate="20230519T142148Z">
-        <seg>GB Road ahora era su única familia, su único lugar seguro.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230531T091728Z" creationid="mange" creationdate="20230519T142148Z">
+        <seg>El barrio rojo ahora era su única familia, su único lugar seguro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1076,6 +1076,22 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       </tuv>
       <tuv lang="es-ES" changeid="Sara" changedate="20230531T060855Z" creationid="Sara" creationdate="20230531T060855Z">
         <seg>Cómo el amor de una mujer está transformando los burdeles de Delhi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>How One Woman's Love Is Transforming Delhi's Brothels, By Audrey Lin | DailyGood</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230531T091518Z" creationid="mange" creationdate="20230531T091518Z">
+        <seg>Cómo el amor de una mujer está transformando los burdeles de Delhi, By Audrey Lin | DailyGood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>How One Woman's Love Is Transforming Delhi's Brothels, by Audrey Lin | DailyGood</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="mange" changedate="20230531T091511Z" creationid="mange" creationdate="20230531T091511Z">
+        <seg>Cómo el amor de una mujer está transformando los burdeles de Delhi, by Audrey Lin | DailyGood</seg>
       </tuv>
     </tu>
     <tu>
@@ -1681,8 +1697,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>My interactions with ‘them’: The Untold Story by Gitanjali Babbar On recalling my first day inside a brothel, or even on the GB Road itself, I am hit by the now alien feeling of trepidation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Sara" changedate="20230531T054443Z" creationid="Sara" creationdate="20230531T054443Z">
-        <seg>Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Babbar. Al recordar mi primer día dentro de un burdel, o incluso en el mismo barrio rojo de Nueva Delhi me invade una sensación, ahora ajena de terror. </seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230531T092054Z" creationid="Sara" creationdate="20230531T054443Z">
+        <seg>Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Babbar. Al recordar mi primer día dentro de un burdel, o incluso en el mismo barrio rojo me invade una sensación, ahora ajena de terror. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1737,8 +1753,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>On recalling my first day inside a brothel, or even on the GB Road itself, I am hit by the now alien feeling of trepidation.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="mange" changedate="20230531T021400Z" creationid="alexi" creationdate="20230505T142935Z">
-        <seg>Cuando recuerdo mi primer día en el burdel, o incluso en el mismo barrio rojo de Delhi, me golpea una sensación, ahora extraña, de inquietud.
+      <tuv lang="es-ES" changeid="mange" changedate="20230531T092020Z" creationid="alexi" creationdate="20230505T142935Z">
+        <seg>Cuando recuerdo mi primer día en el burdel, o incluso en el mismo barrio rojo, me golpea una sensación, ahora extraña, de inquietud.
 </seg>
       </tuv>
     </tu>
@@ -2476,8 +2492,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>Soon Sandhya also realised that a cousin sister from her village was already a brothel manager at Gb Road and played a part in her trafficking.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T160506Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
-        <seg>Pronto Sandhya también se dio cuenta de que una prima hermana de su pueblo ya era gerente de un burdel en Gb Road y participaba en su trata.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230531T091745Z" creationid="OmegaT Aligner" creationdate="20230504T160506Z">
+        <seg>Pronto Sandhya también se dio cuenta de que una prima hermana de su pueblo ya era gerente de un burdel en el barrio rojo y participaba en su trata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2628,8 +2644,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>The man had sold Sandhya to a brothel owner at GB Road.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="mange" changedate="20230505T143125Z" creationid="mange" creationdate="20230505T143125Z">
-        <seg>El hombre había vendido a Sandhya al propietario de un burdel en GB Road.
+      <tuv lang="es-ES" changeid="mange" changedate="20230531T091803Z" creationid="mange" creationdate="20230505T143125Z">
+        <seg>El hombre había vendido a Sandhya al propietario de un burdel en el barrio rojo.
 </seg>
       </tuv>
     </tu>
@@ -3433,8 +3449,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>With Maitri Meals paused, Kat-Katha opened HeARTshala, a skill centre at GB Road itself that trained women in the skill of product tailoring.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T163441Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
-        <seg>Con Maitri Meals en pausa, Kat-Katha abrió HeARTshala, un centro de capacitación en la misma GB Road que formaba a mujeres en la confección de productos.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230531T091953Z" creationid="OmegaT Aligner" creationdate="20230518T163441Z">
+        <seg>Con Maitri Meals en pausa, Kat-Katha abrió HeARTshala, un centro de capacitación en el mismo barrio rojo que formaba a mujeres en la confección de productos.</seg>
       </tuv>
     </tu>
     <tu>
