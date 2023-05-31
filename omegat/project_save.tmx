@@ -176,8 +176,8 @@
       <tuv lang="en-GB">
         <seg>And I'm just a part of that space.”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T133626Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Y yo sólo soy parte de ese lugar".</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T094246Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Y yo solamente soy parte de ese lugar".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3809,8 +3809,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>“Just A Part Of That Space”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T133719Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>"Sólo una parte de ese espacio"</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T094258Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Solo una parte de ese espacio"</seg>
       </tuv>
     </tu>
     <tu>
