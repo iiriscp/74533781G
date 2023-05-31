@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -673,8 +673,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>Delhi's G.B.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Sara" changedate="20230531T060914Z" creationid="Sara" creationdate="20230531T060914Z">
-        <seg>El barrio rojo de Delhi.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230531T092644Z" creationid="Sara" creationdate="20230531T060914Z">
+        <seg>El barrio rojo de Delhi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,8 +1930,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Road is a place where no woman would go voluntarily.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Sara" changedate="20230531T060746Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Road, en Delhi, es un lugar al que ninguna mujer iría por voluntad propia.</seg>
+      <tuv lang="es-ES" changeid="mange" changedate="20230531T092656Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>es un lugar al que ninguna mujer iría por voluntad propia.</seg>
       </tuv>
     </tu>
     <tu>
