@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -787,6 +787,14 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
         <seg>Impresionados por cómo se siguen abriendo las puertas de la posibilidad, Gitanjali y los voluntarios empezaron a limpiar las calles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Follow your passion, be prepared to work hard and sacrifice, and, above all, don’t let anyone limit your dreams.</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T092459Z" creationid="marsanchez" creationdate="20230531T092459Z">
+        <seg>Sigue tu pasión, prepárate para trabajar duro y sacrificarte y, sobre todo, no dejes que nadie limite tus sueños.</seg>
       </tuv>
     </tu>
     <tu>
