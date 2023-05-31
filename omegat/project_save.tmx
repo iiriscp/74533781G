@@ -1064,6 +1064,14 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>How One Woman's Love Is Transforming Delhi's Brothels</seg>
+      </tuv>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T060855Z" creationid="Sara" creationdate="20230531T060855Z">
+        <seg>Cómo el amor de una mujer está transformando los burdeles de Delhi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>How am I supposed to ask them such personal and private questions?”</seg>
       </tuv>
       <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
@@ -1890,8 +1898,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Road is a place where no woman would go voluntarily.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>Road, en Delhi, es un lugar al que ninguna mujer iría voluntariamente.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T060746Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>Road, en Delhi, es un lugar al que ninguna mujer iría por voluntad propia.</seg>
       </tuv>
     </tu>
     <tu>
