@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1438,8 +1438,8 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
       <tuv lang="en-GB">
         <seg>If there is a student who wants to learn how to play the harmonium, the next day, I'll get a call from someone who says, “I have an old harmonium at home.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T093623Z" creationid="marsanchez" creationdate="20230510T093459Z">
-        <seg>Si hay un estudiante que quiere aprender a tocar la harmónica, al día siguente me llegará una llamada de alguien diciendo "Tengo una harmónica vieja en casa. </seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T093541Z" creationid="marsanchez" creationdate="20230510T093459Z">
+        <seg>Si hay un estudiante que quiere aprender a tocar la harmónica, al día siguiente me llegará una llamada de alguien diciendo "Tengo una harmónica vieja en casa. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2444,8 +2444,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>Someone donated book-binding machines.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T091950Z" creationid="marsanchez" creationdate="20230510T091950Z">
-        <seg>Alguien donó maquinas para encuadernar libros.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T093322Z" creationid="marsanchez" creationdate="20230510T091950Z">
+        <seg>Alguien donó máquinas para encuadernar libros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2660,8 +2660,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>The joy and spirit from their sense of connection and co-creation breathed life into their material resources, and left them in a constant state of abundance.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230510T093000Z" creationid="marsanchez" creationdate="20230510T093000Z">
-        <seg>La alegría y el espíritu de su sentido de conexión y co-creación le dieron vida a sus recursos materiales, y los dejó en un estado de abundancia constante. </seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T093507Z" creationid="marsanchez" creationdate="20230510T093000Z">
+        <seg>La alegría y el espíritu de su sentido de conexión y cocreación le dieron vida a sus recursos materiales, y los dejó en un estado de abundancia constante. </seg>
       </tuv>
     </tu>
     <tu>
