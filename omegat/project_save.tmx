@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1397,8 +1397,8 @@ Fui enviada por NACO; se había asumido que era un proyecto complejo.
       <tuv lang="en-GB">
         <seg>If a woman has a baby, the baby is often taken away from her—kept on a separate part of G.B.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T091829Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
-        <seg>Si una mujer tiene un bebé, a menudo se lo quitan, se lo guardan en una parte separada del barrio rojo.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T091853Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
+        <seg>Si una mujer tiene un bebé, a menudo se lo quitan, se lo guardan en una parte separada del barrio rojo,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,8 +1954,8 @@ Mis interacciones con "ellos": La historia no contada de la mano de Gitanjali Ba
       <tuv lang="en-GB">
         <seg>Road— as an ultimatum for her to stay there.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230504T163612Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
-        <seg>Road- como ultimátum para que se quede allí.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T091941Z" creationid="OmegaT Aligner" creationdate="20230504T163612Z">
+        <seg>Como ultimátum para que se quede allí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3505,8 +3505,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>Without a flicker of a doubt, she'll show up at the station and see what she can do.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T081808Z" creationid="Sara" creationdate="20230510T091537Z">
-        <seg>Sin ápice de duda, ella fue a la comisaría para ver que podía hacer.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T092102Z" creationid="Sara" creationdate="20230510T091537Z">
+        <seg>Sin ápice de duda, ella fue a la comisaría para ver qué podía hacer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3529,8 +3529,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>Yet it is through these sobering facts and context that one begins to understand the strength of Gitanjali's unwavering commitment and dedication to the women and children of G.B.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="Sara" changedate="20230510T091320Z" creationid="Sara" creationdate="20230510T091320Z">
-        <seg>Es así, después de conocer estos hechos que hacen reflexionar y su contexto como uno empieza a entender la fuerza de compromiso y dedicación inquebrantable de Gitanjali hacia mujeres y niños de la G.B.</seg>
+      <tuv lang="es-ES" changeid="marsanchez" changedate="20230531T092013Z" creationid="Sara" creationdate="20230510T091320Z">
+        <seg>Es así, después de conocer estos hechos que hacen reflexionar y su contexto como uno empieza a entender la fuerza de compromiso y dedicación inquebrantable de Gitanjali hacia mujeres y niños del barrio rojo.</seg>
       </tuv>
     </tu>
     <tu>
