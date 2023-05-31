@@ -1082,8 +1082,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>How am I supposed to ask them such personal and private questions?”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>¿Cómo voy a hacerles preguntas tan personales y privadas?".</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T061317Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>¿Cómo se supone que voy a hacerles preguntas tan personales y privadas?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3417,8 +3417,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>While working for a health organization, Gitanjali was instructed to survey the brothel women on topics related to contraceptives and family planning.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="alexi" changedate="20230519T135252Z" creationid="alexi" creationdate="20230519T135252Z">
-        <seg>Mientras trabajaba para una organización sanitaria, Gitanjali recibió instrucciones de encuestar a las mujeres de los burdeles sobre temas relacionados con los anticonceptivos y la planificación familiar.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T061250Z" creationid="alexi" creationdate="20230519T135252Z">
+        <seg>Mientras trabajaba para una organización sanitaria, Gitanjali recibió instrucciones de hacerles encuestas a las mujeres de los burdeles sobre temas relacionados con los anticonceptivos y la planificación familiar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3553,8 +3553,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>[My job] wanted me to ask questions to the women, but I was quiet.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T162600Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
-        <seg>[Mi trabajo] quería que hiciera preguntas a las mujeres, pero yo estaba callada.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T061353Z" creationid="OmegaT Aligner" creationdate="20230518T162600Z">
+        <seg>[Mi trabajo] quería que yo les hiciera preguntas a las mujeres, pero yo estaba callada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3665,8 +3665,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>“And in every brothel, I found some person or another who was waiting to love you.”</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="alexi" changedate="20230519T135606Z" creationid="alexi" creationdate="20230519T135606Z">
-        <seg>“Y en todos los burdeles encontré a alguna que otra persona que estaba esperando para dar todo su amor”.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T061436Z" creationid="alexi" creationdate="20230519T135606Z">
+        <seg>“Y en todos los burdeles encontré a alguna que otra persona que estaba esperando para quererte”.</seg>
       </tuv>
     </tu>
     <tu>
