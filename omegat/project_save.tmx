@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -489,8 +489,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>Awestruck at finding herself in such a situation, she picked one of the buildings, and she plans to renovate it into a hostel with her Kat-Katha family by next spring.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T131536Z" creationid="marsanchez" creationdate="20230519T131536Z">
-        <seg>Asombrada por encontrarse en semejante situación, eligió uno de los edificios, y planea renovarlo para convertirlo en un albergue junto a su familia Kat-Katha para la próxima primavera..</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T093620Z" creationid="marsanchez" creationdate="20230519T131536Z">
+        <seg>Asombrada por encontrarse en semejante situación, eligió uno de los edificios, y planea renovarlo para convertirlo en un albergue junto a su familia Kat-Katha para la próxima primavera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -665,8 +665,8 @@ Y, después de unos cuantos escalones más empinados, poco iluminados por los qu
       <tuv lang="en-GB">
         <seg>Daughters of the brothel women as young as eleven or twelve can often be sold into prostitution, and children there grow up steeped in the influences of a neighborhood littered with drugs and alcohol.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T130847Z" creationid="marsanchez" creationdate="20230519T130847Z">
-        <seg>Las hijas de las mujeres de los burdeles, de apenas once o doce años, suelen ser vendidas para ejercer la prostitución, y los niños crecen allí impregnados de las influencias de un barrio plagado de drogas y alcohol.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T093559Z" creationid="marsanchez" creationdate="20230519T130847Z">
+        <seg>Las hijas de las mujeres de los burdeles, de apenas once o doce años, suelen ser vendidas para ejercer la prostitución, y los niños crecen allí, impregnados de las influencias de un barrio plagado de drogas y alcohol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2734,8 +2734,8 @@ Se le indicó alto y claro que no tendría comida hasta que se lo ganara.</seg>
       <tuv lang="en-GB">
         <seg>The volunteers had organized the gathering and invited folks to come.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="marsanchez" changedate="20230519T132434Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>Los voluntarios habían organizado la reunión e invitado a gente a ir .</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T093717Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>Los voluntarios habían organizado la reunión e invitado a gente a ir.</seg>
       </tuv>
     </tu>
     <tu>
