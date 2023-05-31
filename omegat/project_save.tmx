@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="en-GB">
         <seg>...But it's actually not magic.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>...Pero en realidad no es magia.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T094927Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>...pero en realidad no es magia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3937,8 +3937,8 @@ Prueba a ser voluntario, esto puede resolver muchos problemas</seg>
       <tuv lang="en-GB">
         <seg>“Yeah, yeah.</seg>
       </tuv>
-      <tuv lang="es-ES" changeid="OmegaT Aligner" changedate="20230518T193947Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
-        <seg>"Si, si.</seg>
+      <tuv lang="es-ES" changeid="Sara" changedate="20230531T094844Z" creationid="OmegaT Aligner" creationdate="20230518T193947Z">
+        <seg>"Sí, sí.</seg>
       </tuv>
     </tu>
     <tu>
